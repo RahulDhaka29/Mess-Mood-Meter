@@ -1,0 +1,561 @@
+review_id,date,day,meal_slot,menu_item,rating_out_of_5,review_text,sentiment_label_demo,data_type
+MM00001,2026-11-16,Monday,Breakfast,"Poha with Chutney, sev, onion, lemon",3,"The Poha with Chutney, sev, onion, lemon was neither very good nor very bad today.",Neutral,Synthetic demo review
+MM00002,2026-11-16,Monday,Breakfast,Milk/Tea/Cofee,4,The Milk/Tea/Cofee was tasty and the overall meal was satisfying.,Positive,Synthetic demo review
+MM00003,2026-11-16,Monday,Breakfast,Bread-Jam,2,The Bread-Jam was not served warm and the taste could be better.,Negative,Synthetic demo review
+MM00004,2026-11-16,Monday,Breakfast,Butter,4,Good quality today. The Butter was enjoyable and well seasoned.,Positive,Synthetic demo review
+MM00005,2026-11-16,Monday,Breakfast,Corn flakes/oats,4,The Corn flakes/oats tasted fresh and was well prepared. I enjoyed this meal.,Positive,Synthetic demo review
+MM00006,2026-11-16,Monday,Breakfast,Banana/Egg,5,Really liked the flavour of the Banana/Egg. The portion was satisfying.,Positive,Synthetic demo review
+MM00007,2026-11-16,Monday,Breakfast,Sprouts,4,Really liked the flavour of the Sprouts. The portion was satisfying.,Positive,Synthetic demo review
+MM00008,2026-11-16,Monday,Breakfast,"Poha with Chutney, sev, onion, lemon",2,"The Poha with Chutney, sev, onion, lemon tasted bland today. Please pay attention to seasoning and freshness.",Negative,Synthetic demo review
+MM00009,2026-11-16,Monday,Breakfast,Milk/Tea/Cofee,5,Really liked the flavour of the Milk/Tea/Cofee. The portion was satisfying.,Positive,Synthetic demo review
+MM00010,2026-11-16,Monday,Breakfast,Bread-Jam,5,The Bread-Jam was served at a good temperature and tasted nice.,Positive,Synthetic demo review
+MM00011,2026-11-16,Monday,Breakfast,Butter,3,"The Butter was okay, but there is room to improve the taste.",Neutral,Synthetic demo review
+MM00012,2026-11-16,Monday,Breakfast,Corn flakes/oats,3,"The portion of Corn flakes/oats was acceptable. Overall, it was an average experience.",Neutral,Synthetic demo review
+MM00013,2026-11-16,Monday,Breakfast,Banana/Egg,5,Really liked the flavour of the Banana/Egg. The portion was satisfying.,Positive,Synthetic demo review
+MM00014,2026-11-16,Monday,Breakfast,Sprouts,4,The Sprouts was tasty and the overall meal was satisfying.,Positive,Synthetic demo review
+MM00015,2026-11-16,Monday,Breakfast,"Poha with Chutney, sev, onion, lemon",3,"The portion of Poha with Chutney, sev, onion, lemon was acceptable. Overall, it was an average experience.",Neutral,Synthetic demo review
+MM00016,2026-11-16,Monday,Breakfast,Milk/Tea/Cofee,5,The Milk/Tea/Cofee was served at a good temperature and tasted nice.,Positive,Synthetic demo review
+MM00017,2026-11-16,Monday,Breakfast,Bread-Jam,4,The Bread-Jam was served at a good temperature and tasted nice.,Positive,Synthetic demo review
+MM00018,2026-11-16,Monday,Breakfast,Butter,5,The Butter was served at a good temperature and tasted nice.,Positive,Synthetic demo review
+MM00019,2026-11-16,Monday,Breakfast,Corn flakes/oats,3,"The portion of Corn flakes/oats was acceptable. Overall, it was an average experience.",Neutral,Synthetic demo review
+MM00020,2026-11-16,Monday,Breakfast,Banana/Egg,1,The Banana/Egg was not served warm and the taste could be better.,Negative,Synthetic demo review
+MM00021,2026-11-16,Monday,Lunch,Bendi Masala Fry,4,The Bendi Masala Fry tasted fresh and was well prepared. I enjoyed this meal.,Positive,Synthetic demo review
+MM00022,2026-11-16,Monday,Lunch,Flavoured Rice,1,The Flavoured Rice was disappointing and lacked flavour. Please improve the preparation.,Negative,Synthetic demo review
+MM00023,2026-11-16,Monday,Lunch,Roti/Chapati/Methi Roti,3,The Roti/Chapati/Methi Roti was neither very good nor very bad today.,Neutral,Synthetic demo review
+MM00024,2026-11-16,Monday,Lunch,Rice,5,The Rice was tasty and the overall meal was satisfying.,Positive,Synthetic demo review
+MM00025,2026-11-16,Monday,Lunch,Curd,5,Really liked the flavour of the Curd. The portion was satisfying.,Positive,Synthetic demo review
+MM00026,2026-11-16,Monday,Lunch,Salad,5,The Salad tasted fresh and was well prepared. I enjoyed this meal.,Positive,Synthetic demo review
+MM00027,2026-11-16,Monday,Lunch,Pickle,3,"The Pickle was fine, but consistency could be improved.",Neutral,Synthetic demo review
+MM00028,2026-11-16,Monday,Lunch,Sambar/Rasam,2,The Sambar/Rasam tasted bland today. Please pay attention to seasoning and freshness.,Negative,Synthetic demo review
+MM00029,2026-11-16,Monday,Lunch,Dal,3,The Dal was average today. It could have had a little more flavour.,Neutral,Synthetic demo review
+MM00030,2026-11-16,Monday,Lunch,Papad,1,The Papad was not served warm and the taste could be better.,Negative,Synthetic demo review
+MM00031,2026-11-16,Monday,Lunch,Bendi Masala Fry,3,"The portion of Bendi Masala Fry was acceptable. Overall, it was an average experience.",Neutral,Synthetic demo review
+MM00032,2026-11-16,Monday,Lunch,Flavoured Rice,5,Really liked the flavour of the Flavoured Rice. The portion was satisfying.,Positive,Synthetic demo review
+MM00033,2026-11-16,Monday,Lunch,Roti/Chapati/Methi Roti,4,Really liked the flavour of the Roti/Chapati/Methi Roti. The portion was satisfying.,Positive,Synthetic demo review
+MM00034,2026-11-16,Monday,Lunch,Rice,3,"The Rice was fine, but consistency could be improved.",Neutral,Synthetic demo review
+MM00035,2026-11-16,Monday,Lunch,Curd,4,The Curd was served at a good temperature and tasted nice.,Positive,Synthetic demo review
+MM00036,2026-11-16,Monday,Lunch,Salad,4,The Salad tasted fresh and was well prepared. I enjoyed this meal.,Positive,Synthetic demo review
+MM00037,2026-11-16,Monday,Lunch,Pickle,4,Good quality today. The Pickle was enjoyable and well seasoned.,Positive,Synthetic demo review
+MM00038,2026-11-16,Monday,Lunch,Sambar/Rasam,3,"The portion of Sambar/Rasam was acceptable. Overall, it was an average experience.",Neutral,Synthetic demo review
+MM00039,2026-11-16,Monday,Lunch,Dal,4,The Dal tasted fresh and was well prepared. I enjoyed this meal.,Positive,Synthetic demo review
+MM00040,2026-11-16,Monday,Lunch,Papad,4,The Papad was tasty and the overall meal was satisfying.,Positive,Synthetic demo review
+MM00041,2026-11-16,Monday,Snacks,Veg puff,3,The Veg puff was average today. It could have had a little more flavour.,Neutral,Synthetic demo review
+MM00042,2026-11-16,Monday,Snacks,Vada Pav (Alternate Weeks),4,Good quality today. The Vada Pav (Alternate Weeks) was enjoyable and well seasoned.,Positive,Synthetic demo review
+MM00043,2026-11-16,Monday,Snacks,Milk/Tea/Cofee,3,"The Milk/Tea/Cofee was okay, but there is room to improve the taste.",Neutral,Synthetic demo review
+MM00044,2026-11-16,Monday,Snacks,Veg puff,2,The Veg puff tasted bland today. Please pay attention to seasoning and freshness.,Negative,Synthetic demo review
+MM00045,2026-11-16,Monday,Snacks,Vada Pav (Alternate Weeks),5,The Vada Pav (Alternate Weeks) was served at a good temperature and tasted nice.,Positive,Synthetic demo review
+MM00046,2026-11-16,Monday,Snacks,Milk/Tea/Cofee,4,The Milk/Tea/Cofee tasted fresh and was well prepared. I enjoyed this meal.,Positive,Synthetic demo review
+MM00047,2026-11-16,Monday,Snacks,Veg puff,5,The Veg puff tasted fresh and was well prepared. I enjoyed this meal.,Positive,Synthetic demo review
+MM00048,2026-11-16,Monday,Snacks,Vada Pav (Alternate Weeks),3,"The Vada Pav (Alternate Weeks) was okay, but there is room to improve the taste.",Neutral,Synthetic demo review
+MM00049,2026-11-16,Monday,Snacks,Milk/Tea/Cofee,4,The Milk/Tea/Cofee tasted fresh and was well prepared. I enjoyed this meal.,Positive,Synthetic demo review
+MM00050,2026-11-16,Monday,Snacks,Veg puff,4,The Veg puff tasted fresh and was well prepared. I enjoyed this meal.,Positive,Synthetic demo review
+MM00051,2026-11-16,Monday,Snacks,Vada Pav (Alternate Weeks),4,The Vada Pav (Alternate Weeks) was tasty and the overall meal was satisfying.,Positive,Synthetic demo review
+MM00052,2026-11-16,Monday,Snacks,Milk/Tea/Cofee,2,The Milk/Tea/Cofee tasted bland today. Please pay attention to seasoning and freshness.,Negative,Synthetic demo review
+MM00053,2026-11-16,Monday,Snacks,Veg puff,2,The Veg puff was disappointing and lacked flavour. Please improve the preparation.,Negative,Synthetic demo review
+MM00054,2026-11-16,Monday,Snacks,Vada Pav (Alternate Weeks),2,The portion of Vada Pav (Alternate Weeks) was small and the overall quality needs improvement.,Negative,Synthetic demo review
+MM00055,2026-11-16,Monday,Snacks,Milk/Tea/Cofee,3,"The portion of Milk/Tea/Cofee was acceptable. Overall, it was an average experience.",Neutral,Synthetic demo review
+MM00056,2026-11-16,Monday,Snacks,Veg puff,3,The Veg puff was average today. It could have had a little more flavour.,Neutral,Synthetic demo review
+MM00057,2026-11-16,Monday,Snacks,Vada Pav (Alternate Weeks),2,The Vada Pav (Alternate Weeks) tasted bland today. Please pay attention to seasoning and freshness.,Negative,Synthetic demo review
+MM00058,2026-11-16,Monday,Snacks,Milk/Tea/Cofee,3,"The portion of Milk/Tea/Cofee was acceptable. Overall, it was an average experience.",Neutral,Synthetic demo review
+MM00059,2026-11-16,Monday,Snacks,Veg puff,2,The Veg puff was disappointing and lacked flavour. Please improve the preparation.,Negative,Synthetic demo review
+MM00060,2026-11-16,Monday,Snacks,Vada Pav (Alternate Weeks),4,The Vada Pav (Alternate Weeks) tasted fresh and was well prepared. I enjoyed this meal.,Positive,Synthetic demo review
+MM00061,2026-11-16,Monday,Dinner,Chole Masala,3,"The Chole Masala was okay, but there is room to improve the taste.",Neutral,Synthetic demo review
+MM00062,2026-11-16,Monday,Dinner,Bhature,4,The Bhature was tasty and the overall meal was satisfying.,Positive,Synthetic demo review
+MM00063,2026-11-16,Monday,Dinner,Fruit Custard,3,The Fruit Custard was neither very good nor very bad today.,Neutral,Synthetic demo review
+MM00064,2026-11-16,Monday,Dinner,Roti/Chapati/Methi Roti,1,The Roti/Chapati/Methi Roti tasted bland today. Please pay attention to seasoning and freshness.,Negative,Synthetic demo review
+MM00065,2026-11-16,Monday,Dinner,Rice,2,I did not enjoy the Rice; it seemed too oily and poorly prepared.,Negative,Synthetic demo review
+MM00066,2026-11-16,Monday,Dinner,Curd,4,Good quality today. The Curd was enjoyable and well seasoned.,Positive,Synthetic demo review
+MM00067,2026-11-16,Monday,Dinner,Salad,3,The Salad was average today. It could have had a little more flavour.,Neutral,Synthetic demo review
+MM00068,2026-11-16,Monday,Dinner,Pickle,3,"The Pickle was okay, but there is room to improve the taste.",Neutral,Synthetic demo review
+MM00069,2026-11-16,Monday,Dinner,Sambar/Rasam,1,The Sambar/Rasam was not served warm and the taste could be better.,Negative,Synthetic demo review
+MM00070,2026-11-16,Monday,Dinner,Dal,3,The Dal was average today. It could have had a little more flavour.,Neutral,Synthetic demo review
+MM00071,2026-11-16,Monday,Dinner,Papad,3,"The portion of Papad was acceptable. Overall, it was an average experience.",Neutral,Synthetic demo review
+MM00072,2026-11-16,Monday,Dinner,Chole Masala,5,The Chole Masala was served at a good temperature and tasted nice.,Positive,Synthetic demo review
+MM00073,2026-11-16,Monday,Dinner,Bhature,2,The Bhature was not served warm and the taste could be better.,Negative,Synthetic demo review
+MM00074,2026-11-16,Monday,Dinner,Fruit Custard,1,I did not enjoy the Fruit Custard; it seemed too oily and poorly prepared.,Negative,Synthetic demo review
+MM00075,2026-11-16,Monday,Dinner,Roti/Chapati/Methi Roti,2,The Roti/Chapati/Methi Roti was disappointing and lacked flavour. Please improve the preparation.,Negative,Synthetic demo review
+MM00076,2026-11-16,Monday,Dinner,Rice,3,The Rice was neither very good nor very bad today.,Neutral,Synthetic demo review
+MM00077,2026-11-16,Monday,Dinner,Curd,4,The Curd tasted fresh and was well prepared. I enjoyed this meal.,Positive,Synthetic demo review
+MM00078,2026-11-16,Monday,Dinner,Salad,4,Good quality today. The Salad was enjoyable and well seasoned.,Positive,Synthetic demo review
+MM00079,2026-11-16,Monday,Dinner,Pickle,5,The Pickle was tasty and the overall meal was satisfying.,Positive,Synthetic demo review
+MM00080,2026-11-16,Monday,Dinner,Sambar/Rasam,2,The Sambar/Rasam tasted bland today. Please pay attention to seasoning and freshness.,Negative,Synthetic demo review
+MM00081,2026-11-17,Tuesday,Breakfast,Idly and vada with ground nut chutney and sambar,5,The Idly and vada with ground nut chutney and sambar was tasty and the overall meal was satisfying.,Positive,Synthetic demo review
+MM00082,2026-11-17,Tuesday,Breakfast,Milk/Tea/Cofee,3,"The Milk/Tea/Cofee was fine, but consistency could be improved.",Neutral,Synthetic demo review
+MM00083,2026-11-17,Tuesday,Breakfast,Bread-Jam,5,The Bread-Jam tasted fresh and was well prepared. I enjoyed this meal.,Positive,Synthetic demo review
+MM00084,2026-11-17,Tuesday,Breakfast,Butter,4,The Butter tasted fresh and was well prepared. I enjoyed this meal.,Positive,Synthetic demo review
+MM00085,2026-11-17,Tuesday,Breakfast,Corn flakes/oats,4,The Corn flakes/oats was served at a good temperature and tasted nice.,Positive,Synthetic demo review
+MM00086,2026-11-17,Tuesday,Breakfast,Banana/Egg,4,Really liked the flavour of the Banana/Egg. The portion was satisfying.,Positive,Synthetic demo review
+MM00087,2026-11-17,Tuesday,Breakfast,Sprouts,3,The Sprouts was neither very good nor very bad today.,Neutral,Synthetic demo review
+MM00088,2026-11-17,Tuesday,Breakfast,Idly and vada with ground nut chutney and sambar,3,The Idly and vada with ground nut chutney and sambar was average today. It could have had a little more flavour.,Neutral,Synthetic demo review
+MM00089,2026-11-17,Tuesday,Breakfast,Milk/Tea/Cofee,1,The Milk/Tea/Cofee tasted bland today. Please pay attention to seasoning and freshness.,Negative,Synthetic demo review
+MM00090,2026-11-17,Tuesday,Breakfast,Bread-Jam,4,The Bread-Jam was tasty and the overall meal was satisfying.,Positive,Synthetic demo review
+MM00091,2026-11-17,Tuesday,Breakfast,Butter,5,Good quality today. The Butter was enjoyable and well seasoned.,Positive,Synthetic demo review
+MM00092,2026-11-17,Tuesday,Breakfast,Corn flakes/oats,5,Good quality today. The Corn flakes/oats was enjoyable and well seasoned.,Positive,Synthetic demo review
+MM00093,2026-11-17,Tuesday,Breakfast,Banana/Egg,3,The Banana/Egg was average today. It could have had a little more flavour.,Neutral,Synthetic demo review
+MM00094,2026-11-17,Tuesday,Breakfast,Sprouts,4,The Sprouts was tasty and the overall meal was satisfying.,Positive,Synthetic demo review
+MM00095,2026-11-17,Tuesday,Breakfast,Idly and vada with ground nut chutney and sambar,3,"The Idly and vada with ground nut chutney and sambar was fine, but consistency could be improved.",Neutral,Synthetic demo review
+MM00096,2026-11-17,Tuesday,Breakfast,Milk/Tea/Cofee,2,The Milk/Tea/Cofee was disappointing and lacked flavour. Please improve the preparation.,Negative,Synthetic demo review
+MM00097,2026-11-17,Tuesday,Breakfast,Bread-Jam,3,"The portion of Bread-Jam was acceptable. Overall, it was an average experience.",Neutral,Synthetic demo review
+MM00098,2026-11-17,Tuesday,Breakfast,Butter,1,The Butter was not served warm and the taste could be better.,Negative,Synthetic demo review
+MM00099,2026-11-17,Tuesday,Breakfast,Corn flakes/oats,2,The Corn flakes/oats was disappointing and lacked flavour. Please improve the preparation.,Negative,Synthetic demo review
+MM00100,2026-11-17,Tuesday,Breakfast,Banana/Egg,2,The Banana/Egg was not served warm and the taste could be better.,Negative,Synthetic demo review
+MM00101,2026-11-17,Tuesday,Lunch,Vegetable Curry,4,The Vegetable Curry was served at a good temperature and tasted nice.,Positive,Synthetic demo review
+MM00102,2026-11-17,Tuesday,Lunch,Flavoured Rice,5,Really liked the flavour of the Flavoured Rice. The portion was satisfying.,Positive,Synthetic demo review
+MM00103,2026-11-17,Tuesday,Lunch,Roti/Chapati/Methi Roti,4,Really liked the flavour of the Roti/Chapati/Methi Roti. The portion was satisfying.,Positive,Synthetic demo review
+MM00104,2026-11-17,Tuesday,Lunch,Rice,5,Good quality today. The Rice was enjoyable and well seasoned.,Positive,Synthetic demo review
+MM00105,2026-11-17,Tuesday,Lunch,Curd,4,Really liked the flavour of the Curd. The portion was satisfying.,Positive,Synthetic demo review
+MM00106,2026-11-17,Tuesday,Lunch,Salad,4,Really liked the flavour of the Salad. The portion was satisfying.,Positive,Synthetic demo review
+MM00107,2026-11-17,Tuesday,Lunch,Pickle,2,The Pickle tasted bland today. Please pay attention to seasoning and freshness.,Negative,Synthetic demo review
+MM00108,2026-11-17,Tuesday,Lunch,Sambar/Rasam,2,The portion of Sambar/Rasam was small and the overall quality needs improvement.,Negative,Synthetic demo review
+MM00109,2026-11-17,Tuesday,Lunch,Dal,3,"The portion of Dal was acceptable. Overall, it was an average experience.",Neutral,Synthetic demo review
+MM00110,2026-11-17,Tuesday,Lunch,Papad,4,The Papad was served at a good temperature and tasted nice.,Positive,Synthetic demo review
+MM00111,2026-11-17,Tuesday,Lunch,Vegetable Curry,3,"The Vegetable Curry was fine, but consistency could be improved.",Neutral,Synthetic demo review
+MM00112,2026-11-17,Tuesday,Lunch,Flavoured Rice,4,The Flavoured Rice tasted fresh and was well prepared. I enjoyed this meal.,Positive,Synthetic demo review
+MM00113,2026-11-17,Tuesday,Lunch,Roti/Chapati/Methi Roti,2,The Roti/Chapati/Methi Roti was not served warm and the taste could be better.,Negative,Synthetic demo review
+MM00114,2026-11-17,Tuesday,Lunch,Rice,3,"The Rice was fine, but consistency could be improved.",Neutral,Synthetic demo review
+MM00115,2026-11-17,Tuesday,Lunch,Curd,5,The Curd was tasty and the overall meal was satisfying.,Positive,Synthetic demo review
+MM00116,2026-11-17,Tuesday,Lunch,Salad,2,The portion of Salad was small and the overall quality needs improvement.,Negative,Synthetic demo review
+MM00117,2026-11-17,Tuesday,Lunch,Pickle,4,The Pickle was served at a good temperature and tasted nice.,Positive,Synthetic demo review
+MM00118,2026-11-17,Tuesday,Lunch,Sambar/Rasam,1,I did not enjoy the Sambar/Rasam; it seemed too oily and poorly prepared.,Negative,Synthetic demo review
+MM00119,2026-11-17,Tuesday,Lunch,Dal,2,The portion of Dal was small and the overall quality needs improvement.,Negative,Synthetic demo review
+MM00120,2026-11-17,Tuesday,Lunch,Papad,3,"The Papad was okay, but there is room to improve the taste.",Neutral,Synthetic demo review
+MM00121,2026-11-17,Tuesday,Snacks,Punugulu,2,I did not enjoy the Punugulu; it seemed too oily and poorly prepared.,Negative,Synthetic demo review
+MM00122,2026-11-17,Tuesday,Snacks,Onion Palak Pakoda (Alternate Weeks),4,Really liked the flavour of the Onion Palak Pakoda (Alternate Weeks). The portion was satisfying.,Positive,Synthetic demo review
+MM00123,2026-11-17,Tuesday,Snacks,Milk/Tea/Cofee,1,The portion of Milk/Tea/Cofee was small and the overall quality needs improvement.,Negative,Synthetic demo review
+MM00124,2026-11-17,Tuesday,Snacks,Punugulu,4,The Punugulu tasted fresh and was well prepared. I enjoyed this meal.,Positive,Synthetic demo review
+MM00125,2026-11-17,Tuesday,Snacks,Onion Palak Pakoda (Alternate Weeks),4,The Onion Palak Pakoda (Alternate Weeks) was served at a good temperature and tasted nice.,Positive,Synthetic demo review
+MM00126,2026-11-17,Tuesday,Snacks,Milk/Tea/Cofee,4,The Milk/Tea/Cofee was tasty and the overall meal was satisfying.,Positive,Synthetic demo review
+MM00127,2026-11-17,Tuesday,Snacks,Punugulu,5,The Punugulu was served at a good temperature and tasted nice.,Positive,Synthetic demo review
+MM00128,2026-11-17,Tuesday,Snacks,Onion Palak Pakoda (Alternate Weeks),4,The Onion Palak Pakoda (Alternate Weeks) was served at a good temperature and tasted nice.,Positive,Synthetic demo review
+MM00129,2026-11-17,Tuesday,Snacks,Milk/Tea/Cofee,2,I did not enjoy the Milk/Tea/Cofee; it seemed too oily and poorly prepared.,Negative,Synthetic demo review
+MM00130,2026-11-17,Tuesday,Snacks,Punugulu,5,The Punugulu tasted fresh and was well prepared. I enjoyed this meal.,Positive,Synthetic demo review
+MM00131,2026-11-17,Tuesday,Snacks,Onion Palak Pakoda (Alternate Weeks),5,Good quality today. The Onion Palak Pakoda (Alternate Weeks) was enjoyable and well seasoned.,Positive,Synthetic demo review
+MM00132,2026-11-17,Tuesday,Snacks,Milk/Tea/Cofee,5,The Milk/Tea/Cofee was served at a good temperature and tasted nice.,Positive,Synthetic demo review
+MM00133,2026-11-17,Tuesday,Snacks,Punugulu,5,The Punugulu tasted fresh and was well prepared. I enjoyed this meal.,Positive,Synthetic demo review
+MM00134,2026-11-17,Tuesday,Snacks,Onion Palak Pakoda (Alternate Weeks),5,The Onion Palak Pakoda (Alternate Weeks) tasted fresh and was well prepared. I enjoyed this meal.,Positive,Synthetic demo review
+MM00135,2026-11-17,Tuesday,Snacks,Milk/Tea/Cofee,4,Really liked the flavour of the Milk/Tea/Cofee. The portion was satisfying.,Positive,Synthetic demo review
+MM00136,2026-11-17,Tuesday,Snacks,Punugulu,5,The Punugulu tasted fresh and was well prepared. I enjoyed this meal.,Positive,Synthetic demo review
+MM00137,2026-11-17,Tuesday,Snacks,Onion Palak Pakoda (Alternate Weeks),3,"The Onion Palak Pakoda (Alternate Weeks) was fine, but consistency could be improved.",Neutral,Synthetic demo review
+MM00138,2026-11-17,Tuesday,Snacks,Milk/Tea/Cofee,1,The Milk/Tea/Cofee was not served warm and the taste could be better.,Negative,Synthetic demo review
+MM00139,2026-11-17,Tuesday,Snacks,Punugulu,3,The Punugulu was average today. It could have had a little more flavour.,Neutral,Synthetic demo review
+MM00140,2026-11-17,Tuesday,Snacks,Onion Palak Pakoda (Alternate Weeks),3,"The portion of Onion Palak Pakoda (Alternate Weeks) was acceptable. Overall, it was an average experience.",Neutral,Synthetic demo review
+MM00141,2026-11-17,Tuesday,Dinner,Katols Curry,4,Good quality today. The Katols Curry was enjoyable and well seasoned.,Positive,Synthetic demo review
+MM00142,2026-11-17,Tuesday,Dinner,Roti/Chapati/Methi Roti,2,I did not enjoy the Roti/Chapati/Methi Roti; it seemed too oily and poorly prepared.,Negative,Synthetic demo review
+MM00143,2026-11-17,Tuesday,Dinner,Rice,2,The Rice was disappointing and lacked flavour. Please improve the preparation.,Negative,Synthetic demo review
+MM00144,2026-11-17,Tuesday,Dinner,Curd,5,Really liked the flavour of the Curd. The portion was satisfying.,Positive,Synthetic demo review
+MM00145,2026-11-17,Tuesday,Dinner,Salad,5,The Salad was served at a good temperature and tasted nice.,Positive,Synthetic demo review
+MM00146,2026-11-17,Tuesday,Dinner,Pickle,5,The Pickle was tasty and the overall meal was satisfying.,Positive,Synthetic demo review
+MM00147,2026-11-17,Tuesday,Dinner,Sambar/Rasam,3,"The Sambar/Rasam was fine, but consistency could be improved.",Neutral,Synthetic demo review
+MM00148,2026-11-17,Tuesday,Dinner,Dal,4,The Dal was served at a good temperature and tasted nice.,Positive,Synthetic demo review
+MM00149,2026-11-17,Tuesday,Dinner,Papad,4,Good quality today. The Papad was enjoyable and well seasoned.,Positive,Synthetic demo review
+MM00150,2026-11-17,Tuesday,Dinner,Katols Curry,5,Really liked the flavour of the Katols Curry. The portion was satisfying.,Positive,Synthetic demo review
+MM00151,2026-11-17,Tuesday,Dinner,Roti/Chapati/Methi Roti,4,The Roti/Chapati/Methi Roti was tasty and the overall meal was satisfying.,Positive,Synthetic demo review
+MM00152,2026-11-17,Tuesday,Dinner,Rice,4,The Rice tasted fresh and was well prepared. I enjoyed this meal.,Positive,Synthetic demo review
+MM00153,2026-11-17,Tuesday,Dinner,Curd,4,The Curd was tasty and the overall meal was satisfying.,Positive,Synthetic demo review
+MM00154,2026-11-17,Tuesday,Dinner,Salad,3,The Salad was average today. It could have had a little more flavour.,Neutral,Synthetic demo review
+MM00155,2026-11-17,Tuesday,Dinner,Pickle,2,The portion of Pickle was small and the overall quality needs improvement.,Negative,Synthetic demo review
+MM00156,2026-11-17,Tuesday,Dinner,Sambar/Rasam,4,The Sambar/Rasam was tasty and the overall meal was satisfying.,Positive,Synthetic demo review
+MM00157,2026-11-17,Tuesday,Dinner,Dal,4,Really liked the flavour of the Dal. The portion was satisfying.,Positive,Synthetic demo review
+MM00158,2026-11-17,Tuesday,Dinner,Papad,4,Good quality today. The Papad was enjoyable and well seasoned.,Positive,Synthetic demo review
+MM00159,2026-11-17,Tuesday,Dinner,Katols Curry,2,The portion of Katols Curry was small and the overall quality needs improvement.,Negative,Synthetic demo review
+MM00160,2026-11-17,Tuesday,Dinner,Roti/Chapati/Methi Roti,4,The Roti/Chapati/Methi Roti was tasty and the overall meal was satisfying.,Positive,Synthetic demo review
+MM00161,2026-11-18,Wednesday,Breakfast,Besan Chilla,4,The Besan Chilla tasted fresh and was well prepared. I enjoyed this meal.,Positive,Synthetic demo review
+MM00162,2026-11-18,Wednesday,Breakfast,Puri (Alternate Weeks),5,The Puri (Alternate Weeks) was tasty and the overall meal was satisfying.,Positive,Synthetic demo review
+MM00163,2026-11-18,Wednesday,Breakfast,Milk/Tea/Cofee,2,The Milk/Tea/Cofee was not served warm and the taste could be better.,Negative,Synthetic demo review
+MM00164,2026-11-18,Wednesday,Breakfast,Bread-Jam,2,The Bread-Jam was disappointing and lacked flavour. Please improve the preparation.,Negative,Synthetic demo review
+MM00165,2026-11-18,Wednesday,Breakfast,Butter,3,"The Butter was okay, but there is room to improve the taste.",Neutral,Synthetic demo review
+MM00166,2026-11-18,Wednesday,Breakfast,Corn flakes/oats,1,The Corn flakes/oats was disappointing and lacked flavour. Please improve the preparation.,Negative,Synthetic demo review
+MM00167,2026-11-18,Wednesday,Breakfast,Banana/Egg,4,The Banana/Egg was tasty and the overall meal was satisfying.,Positive,Synthetic demo review
+MM00168,2026-11-18,Wednesday,Breakfast,Sprouts,4,The Sprouts was served at a good temperature and tasted nice.,Positive,Synthetic demo review
+MM00169,2026-11-18,Wednesday,Breakfast,Besan Chilla,3,"The Besan Chilla was fine, but consistency could be improved.",Neutral,Synthetic demo review
+MM00170,2026-11-18,Wednesday,Breakfast,Puri (Alternate Weeks),3,"The portion of Puri (Alternate Weeks) was acceptable. Overall, it was an average experience.",Neutral,Synthetic demo review
+MM00171,2026-11-18,Wednesday,Breakfast,Milk/Tea/Cofee,4,Good quality today. The Milk/Tea/Cofee was enjoyable and well seasoned.,Positive,Synthetic demo review
+MM00172,2026-11-18,Wednesday,Breakfast,Bread-Jam,3,The Bread-Jam was neither very good nor very bad today.,Neutral,Synthetic demo review
+MM00173,2026-11-18,Wednesday,Breakfast,Butter,2,The Butter was disappointing and lacked flavour. Please improve the preparation.,Negative,Synthetic demo review
+MM00174,2026-11-18,Wednesday,Breakfast,Corn flakes/oats,4,Good quality today. The Corn flakes/oats was enjoyable and well seasoned.,Positive,Synthetic demo review
+MM00175,2026-11-18,Wednesday,Breakfast,Banana/Egg,4,Really liked the flavour of the Banana/Egg. The portion was satisfying.,Positive,Synthetic demo review
+MM00176,2026-11-18,Wednesday,Breakfast,Sprouts,5,Good quality today. The Sprouts was enjoyable and well seasoned.,Positive,Synthetic demo review
+MM00177,2026-11-18,Wednesday,Breakfast,Besan Chilla,1,The Besan Chilla was not served warm and the taste could be better.,Negative,Synthetic demo review
+MM00178,2026-11-18,Wednesday,Breakfast,Puri (Alternate Weeks),5,Really liked the flavour of the Puri (Alternate Weeks). The portion was satisfying.,Positive,Synthetic demo review
+MM00179,2026-11-18,Wednesday,Breakfast,Milk/Tea/Cofee,3,"The Milk/Tea/Cofee was fine, but consistency could be improved.",Neutral,Synthetic demo review
+MM00180,2026-11-18,Wednesday,Breakfast,Bread-Jam,5,The Bread-Jam was served at a good temperature and tasted nice.,Positive,Synthetic demo review
+MM00181,2026-11-18,Wednesday,Lunch,Vegetable Curry,4,Good quality today. The Vegetable Curry was enjoyable and well seasoned.,Positive,Synthetic demo review
+MM00182,2026-11-18,Wednesday,Lunch,Seasonal Fruit,1,The Seasonal Fruit was not served warm and the taste could be better.,Negative,Synthetic demo review
+MM00183,2026-11-18,Wednesday,Lunch,Roti/Chapati/Methi Roti,4,The Roti/Chapati/Methi Roti was served at a good temperature and tasted nice.,Positive,Synthetic demo review
+MM00184,2026-11-18,Wednesday,Lunch,Rice,5,The Rice tasted fresh and was well prepared. I enjoyed this meal.,Positive,Synthetic demo review
+MM00185,2026-11-18,Wednesday,Lunch,Curd,4,The Curd was served at a good temperature and tasted nice.,Positive,Synthetic demo review
+MM00186,2026-11-18,Wednesday,Lunch,Salad,3,The Salad was average today. It could have had a little more flavour.,Neutral,Synthetic demo review
+MM00187,2026-11-18,Wednesday,Lunch,Pickle,3,The Pickle was neither very good nor very bad today.,Neutral,Synthetic demo review
+MM00188,2026-11-18,Wednesday,Lunch,Sambar/Rasam,1,The Sambar/Rasam was disappointing and lacked flavour. Please improve the preparation.,Negative,Synthetic demo review
+MM00189,2026-11-18,Wednesday,Lunch,Dal,4,The Dal was tasty and the overall meal was satisfying.,Positive,Synthetic demo review
+MM00190,2026-11-18,Wednesday,Lunch,Papad,5,The Papad tasted fresh and was well prepared. I enjoyed this meal.,Positive,Synthetic demo review
+MM00191,2026-11-18,Wednesday,Lunch,Vegetable Curry,2,The Vegetable Curry was disappointing and lacked flavour. Please improve the preparation.,Negative,Synthetic demo review
+MM00192,2026-11-18,Wednesday,Lunch,Seasonal Fruit,5,Good quality today. The Seasonal Fruit was enjoyable and well seasoned.,Positive,Synthetic demo review
+MM00193,2026-11-18,Wednesday,Lunch,Roti/Chapati/Methi Roti,3,"The Roti/Chapati/Methi Roti was fine, but consistency could be improved.",Neutral,Synthetic demo review
+MM00194,2026-11-18,Wednesday,Lunch,Rice,5,The Rice tasted fresh and was well prepared. I enjoyed this meal.,Positive,Synthetic demo review
+MM00195,2026-11-18,Wednesday,Lunch,Curd,3,"The Curd was okay, but there is room to improve the taste.",Neutral,Synthetic demo review
+MM00196,2026-11-18,Wednesday,Lunch,Salad,2,The Salad was not served warm and the taste could be better.,Negative,Synthetic demo review
+MM00197,2026-11-18,Wednesday,Lunch,Pickle,4,Good quality today. The Pickle was enjoyable and well seasoned.,Positive,Synthetic demo review
+MM00198,2026-11-18,Wednesday,Lunch,Sambar/Rasam,3,"The Sambar/Rasam was fine, but consistency could be improved.",Neutral,Synthetic demo review
+MM00199,2026-11-18,Wednesday,Lunch,Dal,2,The Dal was disappointing and lacked flavour. Please improve the preparation.,Negative,Synthetic demo review
+MM00200,2026-11-18,Wednesday,Lunch,Papad,1,The Papad was not served warm and the taste could be better.,Negative,Synthetic demo review
+MM00201,2026-11-18,Wednesday,Snacks,Dhokla,3,The Dhokla was neither very good nor very bad today.,Neutral,Synthetic demo review
+MM00202,2026-11-18,Wednesday,Snacks,Sweet Corn (Alternate Weeks),5,The Sweet Corn (Alternate Weeks) was served at a good temperature and tasted nice.,Positive,Synthetic demo review
+MM00203,2026-11-18,Wednesday,Snacks,Milk/Tea/Cofee,2,The Milk/Tea/Cofee was not served warm and the taste could be better.,Negative,Synthetic demo review
+MM00204,2026-11-18,Wednesday,Snacks,Dhokla,3,The Dhokla was average today. It could have had a little more flavour.,Neutral,Synthetic demo review
+MM00205,2026-11-18,Wednesday,Snacks,Sweet Corn (Alternate Weeks),3,"The portion of Sweet Corn (Alternate Weeks) was acceptable. Overall, it was an average experience.",Neutral,Synthetic demo review
+MM00206,2026-11-18,Wednesday,Snacks,Milk/Tea/Cofee,3,"The Milk/Tea/Cofee was okay, but there is room to improve the taste.",Neutral,Synthetic demo review
+MM00207,2026-11-18,Wednesday,Snacks,Dhokla,5,The Dhokla tasted fresh and was well prepared. I enjoyed this meal.,Positive,Synthetic demo review
+MM00208,2026-11-18,Wednesday,Snacks,Sweet Corn (Alternate Weeks),2,The portion of Sweet Corn (Alternate Weeks) was small and the overall quality needs improvement.,Negative,Synthetic demo review
+MM00209,2026-11-18,Wednesday,Snacks,Milk/Tea/Cofee,4,Good quality today. The Milk/Tea/Cofee was enjoyable and well seasoned.,Positive,Synthetic demo review
+MM00210,2026-11-18,Wednesday,Snacks,Dhokla,5,Good quality today. The Dhokla was enjoyable and well seasoned.,Positive,Synthetic demo review
+MM00211,2026-11-18,Wednesday,Snacks,Sweet Corn (Alternate Weeks),1,The Sweet Corn (Alternate Weeks) was disappointing and lacked flavour. Please improve the preparation.,Negative,Synthetic demo review
+MM00212,2026-11-18,Wednesday,Snacks,Milk/Tea/Cofee,3,"The Milk/Tea/Cofee was okay, but there is room to improve the taste.",Neutral,Synthetic demo review
+MM00213,2026-11-18,Wednesday,Snacks,Dhokla,2,The Dhokla tasted bland today. Please pay attention to seasoning and freshness.,Negative,Synthetic demo review
+MM00214,2026-11-18,Wednesday,Snacks,Sweet Corn (Alternate Weeks),2,The Sweet Corn (Alternate Weeks) was not served warm and the taste could be better.,Negative,Synthetic demo review
+MM00215,2026-11-18,Wednesday,Snacks,Milk/Tea/Cofee,4,The Milk/Tea/Cofee tasted fresh and was well prepared. I enjoyed this meal.,Positive,Synthetic demo review
+MM00216,2026-11-18,Wednesday,Snacks,Dhokla,4,Good quality today. The Dhokla was enjoyable and well seasoned.,Positive,Synthetic demo review
+MM00217,2026-11-18,Wednesday,Snacks,Sweet Corn (Alternate Weeks),1,The Sweet Corn (Alternate Weeks) was not served warm and the taste could be better.,Negative,Synthetic demo review
+MM00218,2026-11-18,Wednesday,Snacks,Milk/Tea/Cofee,4,The Milk/Tea/Cofee was served at a good temperature and tasted nice.,Positive,Synthetic demo review
+MM00219,2026-11-18,Wednesday,Snacks,Dhokla,2,The portion of Dhokla was small and the overall quality needs improvement.,Negative,Synthetic demo review
+MM00220,2026-11-18,Wednesday,Snacks,Sweet Corn (Alternate Weeks),4,The Sweet Corn (Alternate Weeks) tasted fresh and was well prepared. I enjoyed this meal.,Positive,Synthetic demo review
+MM00221,2026-11-18,Wednesday,Dinner,Chicken (3pcs) / Paneer (4 pcs),4,Really liked the flavour of the Chicken (3pcs) / Paneer (4 pcs). The portion was satisfying.,Positive,Synthetic demo review
+MM00222,2026-11-18,Wednesday,Dinner,Curry type - Butter or Chilli or Masala or Kadai,5,Good quality today. The Curry type - Butter or Chilli or Masala or Kadai was enjoyable and well seasoned.,Positive,Synthetic demo review
+MM00223,2026-11-18,Wednesday,Dinner,Gulab Jamun (2) / jilebi (4),2,The Gulab Jamun (2) / jilebi (4) was not served warm and the taste could be better.,Negative,Synthetic demo review
+MM00224,2026-11-18,Wednesday,Dinner,bagara rice,5,Really liked the flavour of the bagara rice. The portion was satisfying.,Positive,Synthetic demo review
+MM00225,2026-11-18,Wednesday,Dinner,Roti/Chapati/Methi Roti,4,The Roti/Chapati/Methi Roti was served at a good temperature and tasted nice.,Positive,Synthetic demo review
+MM00226,2026-11-18,Wednesday,Dinner,Rice,1,The portion of Rice was small and the overall quality needs improvement.,Negative,Synthetic demo review
+MM00227,2026-11-18,Wednesday,Dinner,Curd,4,Really liked the flavour of the Curd. The portion was satisfying.,Positive,Synthetic demo review
+MM00228,2026-11-18,Wednesday,Dinner,Salad,5,The Salad tasted fresh and was well prepared. I enjoyed this meal.,Positive,Synthetic demo review
+MM00229,2026-11-18,Wednesday,Dinner,Pickle,2,I did not enjoy the Pickle; it seemed too oily and poorly prepared.,Negative,Synthetic demo review
+MM00230,2026-11-18,Wednesday,Dinner,Sambar/Rasam,2,The Sambar/Rasam was disappointing and lacked flavour. Please improve the preparation.,Negative,Synthetic demo review
+MM00231,2026-11-18,Wednesday,Dinner,Dal,5,The Dal was tasty and the overall meal was satisfying.,Positive,Synthetic demo review
+MM00232,2026-11-18,Wednesday,Dinner,Papad,3,"The Papad was fine, but consistency could be improved.",Neutral,Synthetic demo review
+MM00233,2026-11-18,Wednesday,Dinner,Chicken (3pcs) / Paneer (4 pcs),1,The Chicken (3pcs) / Paneer (4 pcs) was not served warm and the taste could be better.,Negative,Synthetic demo review
+MM00234,2026-11-18,Wednesday,Dinner,Curry type - Butter or Chilli or Masala or Kadai,4,The Curry type - Butter or Chilli or Masala or Kadai tasted fresh and was well prepared. I enjoyed this meal.,Positive,Synthetic demo review
+MM00235,2026-11-18,Wednesday,Dinner,Gulab Jamun (2) / jilebi (4),2,I did not enjoy the Gulab Jamun (2) / jilebi (4); it seemed too oily and poorly prepared.,Negative,Synthetic demo review
+MM00236,2026-11-18,Wednesday,Dinner,bagara rice,2,The bagara rice was not served warm and the taste could be better.,Negative,Synthetic demo review
+MM00237,2026-11-18,Wednesday,Dinner,Roti/Chapati/Methi Roti,3,"The Roti/Chapati/Methi Roti was okay, but there is room to improve the taste.",Neutral,Synthetic demo review
+MM00238,2026-11-18,Wednesday,Dinner,Rice,5,The Rice was served at a good temperature and tasted nice.,Positive,Synthetic demo review
+MM00239,2026-11-18,Wednesday,Dinner,Curd,5,Really liked the flavour of the Curd. The portion was satisfying.,Positive,Synthetic demo review
+MM00240,2026-11-18,Wednesday,Dinner,Salad,5,The Salad was served at a good temperature and tasted nice.,Positive,Synthetic demo review
+MM00241,2026-11-19,Thursday,Breakfast,Onion Dosa with Chutney and Sambar,3,The Onion Dosa with Chutney and Sambar was neither very good nor very bad today.,Neutral,Synthetic demo review
+MM00242,2026-11-19,Thursday,Breakfast,Milk/Tea/Cofee,4,Good quality today. The Milk/Tea/Cofee was enjoyable and well seasoned.,Positive,Synthetic demo review
+MM00243,2026-11-19,Thursday,Breakfast,Bread-Jam,3,The Bread-Jam was average today. It could have had a little more flavour.,Neutral,Synthetic demo review
+MM00244,2026-11-19,Thursday,Breakfast,Butter,4,The Butter tasted fresh and was well prepared. I enjoyed this meal.,Positive,Synthetic demo review
+MM00245,2026-11-19,Thursday,Breakfast,Corn flakes/oats,3,"The Corn flakes/oats was fine, but consistency could be improved.",Neutral,Synthetic demo review
+MM00246,2026-11-19,Thursday,Breakfast,Banana/Egg,4,Really liked the flavour of the Banana/Egg. The portion was satisfying.,Positive,Synthetic demo review
+MM00247,2026-11-19,Thursday,Breakfast,Sprouts,3,The Sprouts was average today. It could have had a little more flavour.,Neutral,Synthetic demo review
+MM00248,2026-11-19,Thursday,Breakfast,Onion Dosa with Chutney and Sambar,3,"The portion of Onion Dosa with Chutney and Sambar was acceptable. Overall, it was an average experience.",Neutral,Synthetic demo review
+MM00249,2026-11-19,Thursday,Breakfast,Milk/Tea/Cofee,4,The Milk/Tea/Cofee was tasty and the overall meal was satisfying.,Positive,Synthetic demo review
+MM00250,2026-11-19,Thursday,Breakfast,Bread-Jam,2,The Bread-Jam was not served warm and the taste could be better.,Negative,Synthetic demo review
+MM00251,2026-11-19,Thursday,Breakfast,Butter,4,Good quality today. The Butter was enjoyable and well seasoned.,Positive,Synthetic demo review
+MM00252,2026-11-19,Thursday,Breakfast,Corn flakes/oats,5,Really liked the flavour of the Corn flakes/oats. The portion was satisfying.,Positive,Synthetic demo review
+MM00253,2026-11-19,Thursday,Breakfast,Banana/Egg,1,The Banana/Egg was disappointing and lacked flavour. Please improve the preparation.,Negative,Synthetic demo review
+MM00254,2026-11-19,Thursday,Breakfast,Sprouts,4,The Sprouts was served at a good temperature and tasted nice.,Positive,Synthetic demo review
+MM00255,2026-11-19,Thursday,Breakfast,Onion Dosa with Chutney and Sambar,3,"The Onion Dosa with Chutney and Sambar was okay, but there is room to improve the taste.",Neutral,Synthetic demo review
+MM00256,2026-11-19,Thursday,Breakfast,Milk/Tea/Cofee,2,The Milk/Tea/Cofee tasted bland today. Please pay attention to seasoning and freshness.,Negative,Synthetic demo review
+MM00257,2026-11-19,Thursday,Breakfast,Bread-Jam,3,The Bread-Jam was average today. It could have had a little more flavour.,Neutral,Synthetic demo review
+MM00258,2026-11-19,Thursday,Breakfast,Butter,5,Really liked the flavour of the Butter. The portion was satisfying.,Positive,Synthetic demo review
+MM00259,2026-11-19,Thursday,Breakfast,Corn flakes/oats,4,Good quality today. The Corn flakes/oats was enjoyable and well seasoned.,Positive,Synthetic demo review
+MM00260,2026-11-19,Thursday,Breakfast,Banana/Egg,3,"The Banana/Egg was fine, but consistency could be improved.",Neutral,Synthetic demo review
+MM00261,2026-11-19,Thursday,Lunch,Vegetable Curry,2,The Vegetable Curry was not served warm and the taste could be better.,Negative,Synthetic demo review
+MM00262,2026-11-19,Thursday,Lunch,Flavoured Rice,3,"The portion of Flavoured Rice was acceptable. Overall, it was an average experience.",Neutral,Synthetic demo review
+MM00263,2026-11-19,Thursday,Lunch,Roti/Chapati/Methi Roti,4,Good quality today. The Roti/Chapati/Methi Roti was enjoyable and well seasoned.,Positive,Synthetic demo review
+MM00264,2026-11-19,Thursday,Lunch,Rice,4,The Rice was tasty and the overall meal was satisfying.,Positive,Synthetic demo review
+MM00265,2026-11-19,Thursday,Lunch,Curd,5,The Curd was tasty and the overall meal was satisfying.,Positive,Synthetic demo review
+MM00266,2026-11-19,Thursday,Lunch,Salad,4,The Salad tasted fresh and was well prepared. I enjoyed this meal.,Positive,Synthetic demo review
+MM00267,2026-11-19,Thursday,Lunch,Pickle,2,The Pickle tasted bland today. Please pay attention to seasoning and freshness.,Negative,Synthetic demo review
+MM00268,2026-11-19,Thursday,Lunch,Sambar/Rasam,1,I did not enjoy the Sambar/Rasam; it seemed too oily and poorly prepared.,Negative,Synthetic demo review
+MM00269,2026-11-19,Thursday,Lunch,Dal,3,The Dal was average today. It could have had a little more flavour.,Neutral,Synthetic demo review
+MM00270,2026-11-19,Thursday,Lunch,Papad,4,The Papad was tasty and the overall meal was satisfying.,Positive,Synthetic demo review
+MM00271,2026-11-19,Thursday,Lunch,Vegetable Curry,3,The Vegetable Curry was average today. It could have had a little more flavour.,Neutral,Synthetic demo review
+MM00272,2026-11-19,Thursday,Lunch,Flavoured Rice,3,"The portion of Flavoured Rice was acceptable. Overall, it was an average experience.",Neutral,Synthetic demo review
+MM00273,2026-11-19,Thursday,Lunch,Roti/Chapati/Methi Roti,3,"The Roti/Chapati/Methi Roti was fine, but consistency could be improved.",Neutral,Synthetic demo review
+MM00274,2026-11-19,Thursday,Lunch,Rice,3,The Rice was average today. It could have had a little more flavour.,Neutral,Synthetic demo review
+MM00275,2026-11-19,Thursday,Lunch,Curd,2,The Curd tasted bland today. Please pay attention to seasoning and freshness.,Negative,Synthetic demo review
+MM00276,2026-11-19,Thursday,Lunch,Salad,5,Good quality today. The Salad was enjoyable and well seasoned.,Positive,Synthetic demo review
+MM00277,2026-11-19,Thursday,Lunch,Pickle,4,The Pickle was tasty and the overall meal was satisfying.,Positive,Synthetic demo review
+MM00278,2026-11-19,Thursday,Lunch,Sambar/Rasam,4,The Sambar/Rasam tasted fresh and was well prepared. I enjoyed this meal.,Positive,Synthetic demo review
+MM00279,2026-11-19,Thursday,Lunch,Dal,5,Good quality today. The Dal was enjoyable and well seasoned.,Positive,Synthetic demo review
+MM00280,2026-11-19,Thursday,Lunch,Papad,4,Really liked the flavour of the Papad. The portion was satisfying.,Positive,Synthetic demo review
+MM00281,2026-11-19,Thursday,Snacks,Somosa (Aloo/Onion),2,The Somosa (Aloo/Onion) tasted bland today. Please pay attention to seasoning and freshness.,Negative,Synthetic demo review
+MM00282,2026-11-19,Thursday,Snacks,Kachori (Alternate Weeks),1,The Kachori (Alternate Weeks) tasted bland today. Please pay attention to seasoning and freshness.,Negative,Synthetic demo review
+MM00283,2026-11-19,Thursday,Snacks,Milk/Tea/Cofee,3,The Milk/Tea/Cofee was average today. It could have had a little more flavour.,Neutral,Synthetic demo review
+MM00284,2026-11-19,Thursday,Snacks,Somosa (Aloo/Onion),4,The Somosa (Aloo/Onion) was served at a good temperature and tasted nice.,Positive,Synthetic demo review
+MM00285,2026-11-19,Thursday,Snacks,Kachori (Alternate Weeks),3,"The portion of Kachori (Alternate Weeks) was acceptable. Overall, it was an average experience.",Neutral,Synthetic demo review
+MM00286,2026-11-19,Thursday,Snacks,Milk/Tea/Cofee,3,The Milk/Tea/Cofee was neither very good nor very bad today.,Neutral,Synthetic demo review
+MM00287,2026-11-19,Thursday,Snacks,Somosa (Aloo/Onion),4,The Somosa (Aloo/Onion) was served at a good temperature and tasted nice.,Positive,Synthetic demo review
+MM00288,2026-11-19,Thursday,Snacks,Kachori (Alternate Weeks),4,The Kachori (Alternate Weeks) tasted fresh and was well prepared. I enjoyed this meal.,Positive,Synthetic demo review
+MM00289,2026-11-19,Thursday,Snacks,Milk/Tea/Cofee,2,I did not enjoy the Milk/Tea/Cofee; it seemed too oily and poorly prepared.,Negative,Synthetic demo review
+MM00290,2026-11-19,Thursday,Snacks,Somosa (Aloo/Onion),3,"The Somosa (Aloo/Onion) was fine, but consistency could be improved.",Neutral,Synthetic demo review
+MM00291,2026-11-19,Thursday,Snacks,Kachori (Alternate Weeks),4,The Kachori (Alternate Weeks) was served at a good temperature and tasted nice.,Positive,Synthetic demo review
+MM00292,2026-11-19,Thursday,Snacks,Milk/Tea/Cofee,2,The Milk/Tea/Cofee was disappointing and lacked flavour. Please improve the preparation.,Negative,Synthetic demo review
+MM00293,2026-11-19,Thursday,Snacks,Somosa (Aloo/Onion),1,I did not enjoy the Somosa (Aloo/Onion); it seemed too oily and poorly prepared.,Negative,Synthetic demo review
+MM00294,2026-11-19,Thursday,Snacks,Kachori (Alternate Weeks),5,Good quality today. The Kachori (Alternate Weeks) was enjoyable and well seasoned.,Positive,Synthetic demo review
+MM00295,2026-11-19,Thursday,Snacks,Milk/Tea/Cofee,1,I did not enjoy the Milk/Tea/Cofee; it seemed too oily and poorly prepared.,Negative,Synthetic demo review
+MM00296,2026-11-19,Thursday,Snacks,Somosa (Aloo/Onion),5,The Somosa (Aloo/Onion) was served at a good temperature and tasted nice.,Positive,Synthetic demo review
+MM00297,2026-11-19,Thursday,Snacks,Kachori (Alternate Weeks),5,Good quality today. The Kachori (Alternate Weeks) was enjoyable and well seasoned.,Positive,Synthetic demo review
+MM00298,2026-11-19,Thursday,Snacks,Milk/Tea/Cofee,5,The Milk/Tea/Cofee was served at a good temperature and tasted nice.,Positive,Synthetic demo review
+MM00299,2026-11-19,Thursday,Snacks,Somosa (Aloo/Onion),4,The Somosa (Aloo/Onion) was served at a good temperature and tasted nice.,Positive,Synthetic demo review
+MM00300,2026-11-19,Thursday,Snacks,Kachori (Alternate Weeks),3,"The portion of Kachori (Alternate Weeks) was acceptable. Overall, it was an average experience.",Neutral,Synthetic demo review
+MM00301,2026-11-19,Thursday,Dinner,Katols Curry,3,"The portion of Katols Curry was acceptable. Overall, it was an average experience.",Neutral,Synthetic demo review
+MM00302,2026-11-19,Thursday,Dinner,Roti/Chapati/Methi Roti,4,The Roti/Chapati/Methi Roti tasted fresh and was well prepared. I enjoyed this meal.,Positive,Synthetic demo review
+MM00303,2026-11-19,Thursday,Dinner,Rice,1,I did not enjoy the Rice; it seemed too oily and poorly prepared.,Negative,Synthetic demo review
+MM00304,2026-11-19,Thursday,Dinner,Curd,2,The Curd was disappointing and lacked flavour. Please improve the preparation.,Negative,Synthetic demo review
+MM00305,2026-11-19,Thursday,Dinner,Salad,4,Really liked the flavour of the Salad. The portion was satisfying.,Positive,Synthetic demo review
+MM00306,2026-11-19,Thursday,Dinner,Pickle,5,The Pickle tasted fresh and was well prepared. I enjoyed this meal.,Positive,Synthetic demo review
+MM00307,2026-11-19,Thursday,Dinner,Sambar/Rasam,5,The Sambar/Rasam tasted fresh and was well prepared. I enjoyed this meal.,Positive,Synthetic demo review
+MM00308,2026-11-19,Thursday,Dinner,Dal,4,Really liked the flavour of the Dal. The portion was satisfying.,Positive,Synthetic demo review
+MM00309,2026-11-19,Thursday,Dinner,Papad,3,The Papad was average today. It could have had a little more flavour.,Neutral,Synthetic demo review
+MM00310,2026-11-19,Thursday,Dinner,Katols Curry,4,Good quality today. The Katols Curry was enjoyable and well seasoned.,Positive,Synthetic demo review
+MM00311,2026-11-19,Thursday,Dinner,Roti/Chapati/Methi Roti,2,The Roti/Chapati/Methi Roti tasted bland today. Please pay attention to seasoning and freshness.,Negative,Synthetic demo review
+MM00312,2026-11-19,Thursday,Dinner,Rice,5,The Rice tasted fresh and was well prepared. I enjoyed this meal.,Positive,Synthetic demo review
+MM00313,2026-11-19,Thursday,Dinner,Curd,4,The Curd was tasty and the overall meal was satisfying.,Positive,Synthetic demo review
+MM00314,2026-11-19,Thursday,Dinner,Salad,5,The Salad tasted fresh and was well prepared. I enjoyed this meal.,Positive,Synthetic demo review
+MM00315,2026-11-19,Thursday,Dinner,Pickle,2,I did not enjoy the Pickle; it seemed too oily and poorly prepared.,Negative,Synthetic demo review
+MM00316,2026-11-19,Thursday,Dinner,Sambar/Rasam,3,"The portion of Sambar/Rasam was acceptable. Overall, it was an average experience.",Neutral,Synthetic demo review
+MM00317,2026-11-19,Thursday,Dinner,Dal,4,The Dal was served at a good temperature and tasted nice.,Positive,Synthetic demo review
+MM00318,2026-11-19,Thursday,Dinner,Papad,1,The portion of Papad was small and the overall quality needs improvement.,Negative,Synthetic demo review
+MM00319,2026-11-19,Thursday,Dinner,Katols Curry,3,The Katols Curry was neither very good nor very bad today.,Neutral,Synthetic demo review
+MM00320,2026-11-19,Thursday,Dinner,Roti/Chapati/Methi Roti,4,The Roti/Chapati/Methi Roti was tasty and the overall meal was satisfying.,Positive,Synthetic demo review
+MM00321,2026-11-20,Friday,Breakfast,Aloo/Veg Parata,5,The Aloo/Veg Parata was tasty and the overall meal was satisfying.,Positive,Synthetic demo review
+MM00322,2026-11-20,Friday,Breakfast,Milk/Tea/Cofee,2,I did not enjoy the Milk/Tea/Cofee; it seemed too oily and poorly prepared.,Negative,Synthetic demo review
+MM00323,2026-11-20,Friday,Breakfast,Bread-Jam,2,The Bread-Jam was disappointing and lacked flavour. Please improve the preparation.,Negative,Synthetic demo review
+MM00324,2026-11-20,Friday,Breakfast,Butter,3,The Butter was average today. It could have had a little more flavour.,Neutral,Synthetic demo review
+MM00325,2026-11-20,Friday,Breakfast,Corn flakes/oats,5,The Corn flakes/oats tasted fresh and was well prepared. I enjoyed this meal.,Positive,Synthetic demo review
+MM00326,2026-11-20,Friday,Breakfast,Banana/Egg,1,The Banana/Egg was not served warm and the taste could be better.,Negative,Synthetic demo review
+MM00327,2026-11-20,Friday,Breakfast,Sprouts,5,Good quality today. The Sprouts was enjoyable and well seasoned.,Positive,Synthetic demo review
+MM00328,2026-11-20,Friday,Breakfast,Aloo/Veg Parata,4,Really liked the flavour of the Aloo/Veg Parata. The portion was satisfying.,Positive,Synthetic demo review
+MM00329,2026-11-20,Friday,Breakfast,Milk/Tea/Cofee,4,The Milk/Tea/Cofee was served at a good temperature and tasted nice.,Positive,Synthetic demo review
+MM00330,2026-11-20,Friday,Breakfast,Bread-Jam,2,The Bread-Jam was not served warm and the taste could be better.,Negative,Synthetic demo review
+MM00331,2026-11-20,Friday,Breakfast,Butter,2,The Butter tasted bland today. Please pay attention to seasoning and freshness.,Negative,Synthetic demo review
+MM00332,2026-11-20,Friday,Breakfast,Corn flakes/oats,4,Good quality today. The Corn flakes/oats was enjoyable and well seasoned.,Positive,Synthetic demo review
+MM00333,2026-11-20,Friday,Breakfast,Banana/Egg,2,The Banana/Egg was disappointing and lacked flavour. Please improve the preparation.,Negative,Synthetic demo review
+MM00334,2026-11-20,Friday,Breakfast,Sprouts,3,The Sprouts was neither very good nor very bad today.,Neutral,Synthetic demo review
+MM00335,2026-11-20,Friday,Breakfast,Aloo/Veg Parata,3,"The Aloo/Veg Parata was fine, but consistency could be improved.",Neutral,Synthetic demo review
+MM00336,2026-11-20,Friday,Breakfast,Milk/Tea/Cofee,4,Good quality today. The Milk/Tea/Cofee was enjoyable and well seasoned.,Positive,Synthetic demo review
+MM00337,2026-11-20,Friday,Breakfast,Bread-Jam,2,The Bread-Jam tasted bland today. Please pay attention to seasoning and freshness.,Negative,Synthetic demo review
+MM00338,2026-11-20,Friday,Breakfast,Butter,2,The Butter was disappointing and lacked flavour. Please improve the preparation.,Negative,Synthetic demo review
+MM00339,2026-11-20,Friday,Breakfast,Corn flakes/oats,5,The Corn flakes/oats tasted fresh and was well prepared. I enjoyed this meal.,Positive,Synthetic demo review
+MM00340,2026-11-20,Friday,Breakfast,Banana/Egg,4,The Banana/Egg was served at a good temperature and tasted nice.,Positive,Synthetic demo review
+MM00341,2026-11-20,Friday,Lunch,Vegetable Curry,4,Good quality today. The Vegetable Curry was enjoyable and well seasoned.,Positive,Synthetic demo review
+MM00342,2026-11-20,Friday,Lunch,Sweet,4,Good quality today. The Sweet was enjoyable and well seasoned.,Positive,Synthetic demo review
+MM00343,2026-11-20,Friday,Lunch,Seasonal Fruit,3,"The portion of Seasonal Fruit was acceptable. Overall, it was an average experience.",Neutral,Synthetic demo review
+MM00344,2026-11-20,Friday,Lunch,Roti/Chapati/Methi Roti,3,"The Roti/Chapati/Methi Roti was fine, but consistency could be improved.",Neutral,Synthetic demo review
+MM00345,2026-11-20,Friday,Lunch,Rice,3,"The Rice was okay, but there is room to improve the taste.",Neutral,Synthetic demo review
+MM00346,2026-11-20,Friday,Lunch,Curd,4,The Curd was served at a good temperature and tasted nice.,Positive,Synthetic demo review
+MM00347,2026-11-20,Friday,Lunch,Salad,5,Good quality today. The Salad was enjoyable and well seasoned.,Positive,Synthetic demo review
+MM00348,2026-11-20,Friday,Lunch,Pickle,2,The Pickle tasted bland today. Please pay attention to seasoning and freshness.,Negative,Synthetic demo review
+MM00349,2026-11-20,Friday,Lunch,Sambar/Rasam,2,The Sambar/Rasam was not served warm and the taste could be better.,Negative,Synthetic demo review
+MM00350,2026-11-20,Friday,Lunch,Dal,5,Good quality today. The Dal was enjoyable and well seasoned.,Positive,Synthetic demo review
+MM00351,2026-11-20,Friday,Lunch,Papad,2,I did not enjoy the Papad; it seemed too oily and poorly prepared.,Negative,Synthetic demo review
+MM00352,2026-11-20,Friday,Lunch,Vegetable Curry,3,The Vegetable Curry was average today. It could have had a little more flavour.,Neutral,Synthetic demo review
+MM00353,2026-11-20,Friday,Lunch,Sweet,3,The Sweet was average today. It could have had a little more flavour.,Neutral,Synthetic demo review
+MM00354,2026-11-20,Friday,Lunch,Seasonal Fruit,2,The Seasonal Fruit tasted bland today. Please pay attention to seasoning and freshness.,Negative,Synthetic demo review
+MM00355,2026-11-20,Friday,Lunch,Roti/Chapati/Methi Roti,3,The Roti/Chapati/Methi Roti was average today. It could have had a little more flavour.,Neutral,Synthetic demo review
+MM00356,2026-11-20,Friday,Lunch,Rice,5,The Rice was served at a good temperature and tasted nice.,Positive,Synthetic demo review
+MM00357,2026-11-20,Friday,Lunch,Curd,2,I did not enjoy the Curd; it seemed too oily and poorly prepared.,Negative,Synthetic demo review
+MM00358,2026-11-20,Friday,Lunch,Salad,5,The Salad tasted fresh and was well prepared. I enjoyed this meal.,Positive,Synthetic demo review
+MM00359,2026-11-20,Friday,Lunch,Pickle,2,The Pickle tasted bland today. Please pay attention to seasoning and freshness.,Negative,Synthetic demo review
+MM00360,2026-11-20,Friday,Lunch,Sambar/Rasam,4,The Sambar/Rasam tasted fresh and was well prepared. I enjoyed this meal.,Positive,Synthetic demo review
+MM00361,2026-11-20,Friday,Snacks,Masala Sandwich,1,The Masala Sandwich tasted bland today. Please pay attention to seasoning and freshness.,Negative,Synthetic demo review
+MM00362,2026-11-20,Friday,Snacks,Milk/Tea/Cofee,2,I did not enjoy the Milk/Tea/Cofee; it seemed too oily and poorly prepared.,Negative,Synthetic demo review
+MM00363,2026-11-20,Friday,Snacks,Masala Sandwich,4,The Masala Sandwich was tasty and the overall meal was satisfying.,Positive,Synthetic demo review
+MM00364,2026-11-20,Friday,Snacks,Milk/Tea/Cofee,3,The Milk/Tea/Cofee was average today. It could have had a little more flavour.,Neutral,Synthetic demo review
+MM00365,2026-11-20,Friday,Snacks,Masala Sandwich,1,The Masala Sandwich was not served warm and the taste could be better.,Negative,Synthetic demo review
+MM00366,2026-11-20,Friday,Snacks,Milk/Tea/Cofee,5,The Milk/Tea/Cofee was tasty and the overall meal was satisfying.,Positive,Synthetic demo review
+MM00367,2026-11-20,Friday,Snacks,Masala Sandwich,2,The Masala Sandwich tasted bland today. Please pay attention to seasoning and freshness.,Negative,Synthetic demo review
+MM00368,2026-11-20,Friday,Snacks,Milk/Tea/Cofee,4,Good quality today. The Milk/Tea/Cofee was enjoyable and well seasoned.,Positive,Synthetic demo review
+MM00369,2026-11-20,Friday,Snacks,Masala Sandwich,1,The Masala Sandwich was disappointing and lacked flavour. Please improve the preparation.,Negative,Synthetic demo review
+MM00370,2026-11-20,Friday,Snacks,Milk/Tea/Cofee,1,The portion of Milk/Tea/Cofee was small and the overall quality needs improvement.,Negative,Synthetic demo review
+MM00371,2026-11-20,Friday,Snacks,Masala Sandwich,1,The Masala Sandwich was disappointing and lacked flavour. Please improve the preparation.,Negative,Synthetic demo review
+MM00372,2026-11-20,Friday,Snacks,Milk/Tea/Cofee,3,"The Milk/Tea/Cofee was okay, but there is room to improve the taste.",Neutral,Synthetic demo review
+MM00373,2026-11-20,Friday,Snacks,Masala Sandwich,4,The Masala Sandwich was served at a good temperature and tasted nice.,Positive,Synthetic demo review
+MM00374,2026-11-20,Friday,Snacks,Milk/Tea/Cofee,5,The Milk/Tea/Cofee tasted fresh and was well prepared. I enjoyed this meal.,Positive,Synthetic demo review
+MM00375,2026-11-20,Friday,Snacks,Masala Sandwich,4,The Masala Sandwich was served at a good temperature and tasted nice.,Positive,Synthetic demo review
+MM00376,2026-11-20,Friday,Snacks,Milk/Tea/Cofee,3,"The Milk/Tea/Cofee was okay, but there is room to improve the taste.",Neutral,Synthetic demo review
+MM00377,2026-11-20,Friday,Snacks,Masala Sandwich,1,The portion of Masala Sandwich was small and the overall quality needs improvement.,Negative,Synthetic demo review
+MM00378,2026-11-20,Friday,Snacks,Milk/Tea/Cofee,3,"The Milk/Tea/Cofee was okay, but there is room to improve the taste.",Neutral,Synthetic demo review
+MM00379,2026-11-20,Friday,Snacks,Masala Sandwich,3,"The Masala Sandwich was fine, but consistency could be improved.",Neutral,Synthetic demo review
+MM00380,2026-11-20,Friday,Snacks,Milk/Tea/Cofee,5,Good quality today. The Milk/Tea/Cofee was enjoyable and well seasoned.,Positive,Synthetic demo review
+MM00381,2026-11-20,Friday,Dinner,Veg Fried Rice,3,"The Veg Fried Rice was okay, but there is room to improve the taste.",Neutral,Synthetic demo review
+MM00382,2026-11-20,Friday,Dinner,Veg Manchurian,5,The Veg Manchurian was tasty and the overall meal was satisfying.,Positive,Synthetic demo review
+MM00383,2026-11-20,Friday,Dinner,Veg Soup,2,The Veg Soup was disappointing and lacked flavour. Please improve the preparation.,Negative,Synthetic demo review
+MM00384,2026-11-20,Friday,Dinner,Sauce,5,The Sauce tasted fresh and was well prepared. I enjoyed this meal.,Positive,Synthetic demo review
+MM00385,2026-11-20,Friday,Dinner,Lemon juice,4,Really liked the flavour of the Lemon juice. The portion was satisfying.,Positive,Synthetic demo review
+MM00386,2026-11-20,Friday,Dinner,Roti/Chapati/Methi Roti,4,The Roti/Chapati/Methi Roti tasted fresh and was well prepared. I enjoyed this meal.,Positive,Synthetic demo review
+MM00387,2026-11-20,Friday,Dinner,Rice,4,Really liked the flavour of the Rice. The portion was satisfying.,Positive,Synthetic demo review
+MM00388,2026-11-20,Friday,Dinner,Curd,4,The Curd was served at a good temperature and tasted nice.,Positive,Synthetic demo review
+MM00389,2026-11-20,Friday,Dinner,Salad,2,The Salad tasted bland today. Please pay attention to seasoning and freshness.,Negative,Synthetic demo review
+MM00390,2026-11-20,Friday,Dinner,Pickle,2,The Pickle was not served warm and the taste could be better.,Negative,Synthetic demo review
+MM00391,2026-11-20,Friday,Dinner,Sambar/Rasam,2,The Sambar/Rasam tasted bland today. Please pay attention to seasoning and freshness.,Negative,Synthetic demo review
+MM00392,2026-11-20,Friday,Dinner,Dal,4,Really liked the flavour of the Dal. The portion was satisfying.,Positive,Synthetic demo review
+MM00393,2026-11-20,Friday,Dinner,Papad,3,"The Papad was okay, but there is room to improve the taste.",Neutral,Synthetic demo review
+MM00394,2026-11-20,Friday,Dinner,Veg Fried Rice,4,Good quality today. The Veg Fried Rice was enjoyable and well seasoned.,Positive,Synthetic demo review
+MM00395,2026-11-20,Friday,Dinner,Veg Manchurian,5,The Veg Manchurian was tasty and the overall meal was satisfying.,Positive,Synthetic demo review
+MM00396,2026-11-20,Friday,Dinner,Veg Soup,4,The Veg Soup was served at a good temperature and tasted nice.,Positive,Synthetic demo review
+MM00397,2026-11-20,Friday,Dinner,Sauce,5,The Sauce was served at a good temperature and tasted nice.,Positive,Synthetic demo review
+MM00398,2026-11-20,Friday,Dinner,Lemon juice,2,The Lemon juice was not served warm and the taste could be better.,Negative,Synthetic demo review
+MM00399,2026-11-20,Friday,Dinner,Roti/Chapati/Methi Roti,3,The Roti/Chapati/Methi Roti was average today. It could have had a little more flavour.,Neutral,Synthetic demo review
+MM00400,2026-11-20,Friday,Dinner,Rice,3,"The Rice was fine, but consistency could be improved.",Neutral,Synthetic demo review
+MM00401,2026-11-21,Saturday,Breakfast,Pav Bhaji (Pav must be roasted with Butter),3,"The Pav Bhaji (Pav must be roasted with Butter) was fine, but consistency could be improved.",Neutral,Synthetic demo review
+MM00402,2026-11-21,Saturday,Breakfast,Milk/Tea/Cofee,4,Really liked the flavour of the Milk/Tea/Cofee. The portion was satisfying.,Positive,Synthetic demo review
+MM00403,2026-11-21,Saturday,Breakfast,Bread-Jam,1,The Bread-Jam was not served warm and the taste could be better.,Negative,Synthetic demo review
+MM00404,2026-11-21,Saturday,Breakfast,Butter,2,The Butter tasted bland today. Please pay attention to seasoning and freshness.,Negative,Synthetic demo review
+MM00405,2026-11-21,Saturday,Breakfast,Corn flakes/oats,3,"The portion of Corn flakes/oats was acceptable. Overall, it was an average experience.",Neutral,Synthetic demo review
+MM00406,2026-11-21,Saturday,Breakfast,Banana/Egg,2,The Banana/Egg was not served warm and the taste could be better.,Negative,Synthetic demo review
+MM00407,2026-11-21,Saturday,Breakfast,Sprouts,3,"The Sprouts was fine, but consistency could be improved.",Neutral,Synthetic demo review
+MM00408,2026-11-21,Saturday,Breakfast,Pav Bhaji (Pav must be roasted with Butter),4,Good quality today. The Pav Bhaji (Pav must be roasted with Butter) was enjoyable and well seasoned.,Positive,Synthetic demo review
+MM00409,2026-11-21,Saturday,Breakfast,Milk/Tea/Cofee,4,Really liked the flavour of the Milk/Tea/Cofee. The portion was satisfying.,Positive,Synthetic demo review
+MM00410,2026-11-21,Saturday,Breakfast,Bread-Jam,4,The Bread-Jam tasted fresh and was well prepared. I enjoyed this meal.,Positive,Synthetic demo review
+MM00411,2026-11-21,Saturday,Breakfast,Butter,5,The Butter tasted fresh and was well prepared. I enjoyed this meal.,Positive,Synthetic demo review
+MM00412,2026-11-21,Saturday,Breakfast,Corn flakes/oats,5,The Corn flakes/oats tasted fresh and was well prepared. I enjoyed this meal.,Positive,Synthetic demo review
+MM00413,2026-11-21,Saturday,Breakfast,Banana/Egg,5,The Banana/Egg was tasty and the overall meal was satisfying.,Positive,Synthetic demo review
+MM00414,2026-11-21,Saturday,Breakfast,Sprouts,4,Really liked the flavour of the Sprouts. The portion was satisfying.,Positive,Synthetic demo review
+MM00415,2026-11-21,Saturday,Breakfast,Pav Bhaji (Pav must be roasted with Butter),4,Really liked the flavour of the Pav Bhaji (Pav must be roasted with Butter). The portion was satisfying.,Positive,Synthetic demo review
+MM00416,2026-11-21,Saturday,Breakfast,Milk/Tea/Cofee,3,"The Milk/Tea/Cofee was fine, but consistency could be improved.",Neutral,Synthetic demo review
+MM00417,2026-11-21,Saturday,Breakfast,Bread-Jam,2,The Bread-Jam tasted bland today. Please pay attention to seasoning and freshness.,Negative,Synthetic demo review
+MM00418,2026-11-21,Saturday,Breakfast,Butter,4,The Butter tasted fresh and was well prepared. I enjoyed this meal.,Positive,Synthetic demo review
+MM00419,2026-11-21,Saturday,Breakfast,Corn flakes/oats,2,The portion of Corn flakes/oats was small and the overall quality needs improvement.,Negative,Synthetic demo review
+MM00420,2026-11-21,Saturday,Breakfast,Banana/Egg,3,The Banana/Egg was neither very good nor very bad today.,Neutral,Synthetic demo review
+MM00421,2026-11-21,Saturday,Lunch,Vegetable Curry,1,The portion of Vegetable Curry was small and the overall quality needs improvement.,Negative,Synthetic demo review
+MM00422,2026-11-21,Saturday,Lunch,Flavoured Rice,3,"The portion of Flavoured Rice was acceptable. Overall, it was an average experience.",Neutral,Synthetic demo review
+MM00423,2026-11-21,Saturday,Lunch,Roti/Chapati/Methi Roti,3,"The Roti/Chapati/Methi Roti was okay, but there is room to improve the taste.",Neutral,Synthetic demo review
+MM00424,2026-11-21,Saturday,Lunch,Rice,4,Good quality today. The Rice was enjoyable and well seasoned.,Positive,Synthetic demo review
+MM00425,2026-11-21,Saturday,Lunch,Curd,5,The Curd tasted fresh and was well prepared. I enjoyed this meal.,Positive,Synthetic demo review
+MM00426,2026-11-21,Saturday,Lunch,Salad,3,"The portion of Salad was acceptable. Overall, it was an average experience.",Neutral,Synthetic demo review
+MM00427,2026-11-21,Saturday,Lunch,Pickle,3,The Pickle was neither very good nor very bad today.,Neutral,Synthetic demo review
+MM00428,2026-11-21,Saturday,Lunch,Sambar/Rasam,2,The Sambar/Rasam was disappointing and lacked flavour. Please improve the preparation.,Negative,Synthetic demo review
+MM00429,2026-11-21,Saturday,Lunch,Dal,4,The Dal was served at a good temperature and tasted nice.,Positive,Synthetic demo review
+MM00430,2026-11-21,Saturday,Lunch,Papad,3,"The Papad was okay, but there is room to improve the taste.",Neutral,Synthetic demo review
+MM00431,2026-11-21,Saturday,Lunch,Vegetable Curry,1,The Vegetable Curry was not served warm and the taste could be better.,Negative,Synthetic demo review
+MM00432,2026-11-21,Saturday,Lunch,Flavoured Rice,2,The portion of Flavoured Rice was small and the overall quality needs improvement.,Negative,Synthetic demo review
+MM00433,2026-11-21,Saturday,Lunch,Roti/Chapati/Methi Roti,4,The Roti/Chapati/Methi Roti was tasty and the overall meal was satisfying.,Positive,Synthetic demo review
+MM00434,2026-11-21,Saturday,Lunch,Rice,3,"The Rice was fine, but consistency could be improved.",Neutral,Synthetic demo review
+MM00435,2026-11-21,Saturday,Lunch,Curd,2,I did not enjoy the Curd; it seemed too oily and poorly prepared.,Negative,Synthetic demo review
+MM00436,2026-11-21,Saturday,Lunch,Salad,2,The Salad tasted bland today. Please pay attention to seasoning and freshness.,Negative,Synthetic demo review
+MM00437,2026-11-21,Saturday,Lunch,Pickle,4,Really liked the flavour of the Pickle. The portion was satisfying.,Positive,Synthetic demo review
+MM00438,2026-11-21,Saturday,Lunch,Sambar/Rasam,2,I did not enjoy the Sambar/Rasam; it seemed too oily and poorly prepared.,Negative,Synthetic demo review
+MM00439,2026-11-21,Saturday,Lunch,Dal,4,Really liked the flavour of the Dal. The portion was satisfying.,Positive,Synthetic demo review
+MM00440,2026-11-21,Saturday,Lunch,Papad,3,"The portion of Papad was acceptable. Overall, it was an average experience.",Neutral,Synthetic demo review
+MM00441,2026-11-21,Saturday,Snacks,Aloo /Batani Pani Puri (*7 Pieces) (Alternate Weeks),4,Really liked the flavour of the Aloo /Batani Pani Puri (*7 Pieces) (Alternate Weeks). The portion was satisfying.,Positive,Synthetic demo review
+MM00442,2026-11-21,Saturday,Snacks,Milk/Tea/Cofee,5,The Milk/Tea/Cofee was tasty and the overall meal was satisfying.,Positive,Synthetic demo review
+MM00443,2026-11-21,Saturday,Snacks,Aloo /Batani Pani Puri (*7 Pieces) (Alternate Weeks),3,"The Aloo /Batani Pani Puri (*7 Pieces) (Alternate Weeks) was okay, but there is room to improve the taste.",Neutral,Synthetic demo review
+MM00444,2026-11-21,Saturday,Snacks,Milk/Tea/Cofee,4,The Milk/Tea/Cofee was tasty and the overall meal was satisfying.,Positive,Synthetic demo review
+MM00445,2026-11-21,Saturday,Snacks,Aloo /Batani Pani Puri (*7 Pieces) (Alternate Weeks),5,The Aloo /Batani Pani Puri (*7 Pieces) (Alternate Weeks) was served at a good temperature and tasted nice.,Positive,Synthetic demo review
+MM00446,2026-11-21,Saturday,Snacks,Milk/Tea/Cofee,1,The portion of Milk/Tea/Cofee was small and the overall quality needs improvement.,Negative,Synthetic demo review
+MM00447,2026-11-21,Saturday,Snacks,Aloo /Batani Pani Puri (*7 Pieces) (Alternate Weeks),4,Really liked the flavour of the Aloo /Batani Pani Puri (*7 Pieces) (Alternate Weeks). The portion was satisfying.,Positive,Synthetic demo review
+MM00448,2026-11-21,Saturday,Snacks,Milk/Tea/Cofee,2,The Milk/Tea/Cofee was disappointing and lacked flavour. Please improve the preparation.,Negative,Synthetic demo review
+MM00449,2026-11-21,Saturday,Snacks,Aloo /Batani Pani Puri (*7 Pieces) (Alternate Weeks),4,The Aloo /Batani Pani Puri (*7 Pieces) (Alternate Weeks) was served at a good temperature and tasted nice.,Positive,Synthetic demo review
+MM00450,2026-11-21,Saturday,Snacks,Milk/Tea/Cofee,1,I did not enjoy the Milk/Tea/Cofee; it seemed too oily and poorly prepared.,Negative,Synthetic demo review
+MM00451,2026-11-21,Saturday,Snacks,Aloo /Batani Pani Puri (*7 Pieces) (Alternate Weeks),2,The Aloo /Batani Pani Puri (*7 Pieces) (Alternate Weeks) tasted bland today. Please pay attention to seasoning and freshness.,Negative,Synthetic demo review
+MM00452,2026-11-21,Saturday,Snacks,Milk/Tea/Cofee,3,The Milk/Tea/Cofee was neither very good nor very bad today.,Neutral,Synthetic demo review
+MM00453,2026-11-21,Saturday,Snacks,Aloo /Batani Pani Puri (*7 Pieces) (Alternate Weeks),5,Really liked the flavour of the Aloo /Batani Pani Puri (*7 Pieces) (Alternate Weeks). The portion was satisfying.,Positive,Synthetic demo review
+MM00454,2026-11-21,Saturday,Snacks,Milk/Tea/Cofee,4,The Milk/Tea/Cofee was tasty and the overall meal was satisfying.,Positive,Synthetic demo review
+MM00455,2026-11-21,Saturday,Snacks,Aloo /Batani Pani Puri (*7 Pieces) (Alternate Weeks),5,Good quality today. The Aloo /Batani Pani Puri (*7 Pieces) (Alternate Weeks) was enjoyable and well seasoned.,Positive,Synthetic demo review
+MM00456,2026-11-21,Saturday,Snacks,Milk/Tea/Cofee,3,"The portion of Milk/Tea/Cofee was acceptable. Overall, it was an average experience.",Neutral,Synthetic demo review
+MM00457,2026-11-21,Saturday,Snacks,Aloo /Batani Pani Puri (*7 Pieces) (Alternate Weeks),4,The Aloo /Batani Pani Puri (*7 Pieces) (Alternate Weeks) was served at a good temperature and tasted nice.,Positive,Synthetic demo review
+MM00458,2026-11-21,Saturday,Snacks,Milk/Tea/Cofee,3,"The Milk/Tea/Cofee was okay, but there is room to improve the taste.",Neutral,Synthetic demo review
+MM00459,2026-11-21,Saturday,Snacks,Aloo /Batani Pani Puri (*7 Pieces) (Alternate Weeks),5,The Aloo /Batani Pani Puri (*7 Pieces) (Alternate Weeks) was served at a good temperature and tasted nice.,Positive,Synthetic demo review
+MM00460,2026-11-21,Saturday,Snacks,Milk/Tea/Cofee,4,The Milk/Tea/Cofee was tasty and the overall meal was satisfying.,Positive,Synthetic demo review
+MM00461,2026-11-21,Saturday,Dinner,Matar Masala,4,Good quality today. The Matar Masala was enjoyable and well seasoned.,Positive,Synthetic demo review
+MM00462,2026-11-21,Saturday,Dinner,Roti/Chapati/Methi Roti,4,Good quality today. The Roti/Chapati/Methi Roti was enjoyable and well seasoned.,Positive,Synthetic demo review
+MM00463,2026-11-21,Saturday,Dinner,Rice,4,Really liked the flavour of the Rice. The portion was satisfying.,Positive,Synthetic demo review
+MM00464,2026-11-21,Saturday,Dinner,Curd,4,The Curd tasted fresh and was well prepared. I enjoyed this meal.,Positive,Synthetic demo review
+MM00465,2026-11-21,Saturday,Dinner,Salad,4,The Salad was served at a good temperature and tasted nice.,Positive,Synthetic demo review
+MM00466,2026-11-21,Saturday,Dinner,Pickle,5,The Pickle was tasty and the overall meal was satisfying.,Positive,Synthetic demo review
+MM00467,2026-11-21,Saturday,Dinner,Sambar/Rasam,4,Really liked the flavour of the Sambar/Rasam. The portion was satisfying.,Positive,Synthetic demo review
+MM00468,2026-11-21,Saturday,Dinner,Dal,4,The Dal was tasty and the overall meal was satisfying.,Positive,Synthetic demo review
+MM00469,2026-11-21,Saturday,Dinner,Papad,4,Really liked the flavour of the Papad. The portion was satisfying.,Positive,Synthetic demo review
+MM00470,2026-11-21,Saturday,Dinner,Matar Masala,5,The Matar Masala was tasty and the overall meal was satisfying.,Positive,Synthetic demo review
+MM00471,2026-11-21,Saturday,Dinner,Roti/Chapati/Methi Roti,3,"The Roti/Chapati/Methi Roti was okay, but there is room to improve the taste.",Neutral,Synthetic demo review
+MM00472,2026-11-21,Saturday,Dinner,Rice,3,The Rice was average today. It could have had a little more flavour.,Neutral,Synthetic demo review
+MM00473,2026-11-21,Saturday,Dinner,Curd,5,The Curd was tasty and the overall meal was satisfying.,Positive,Synthetic demo review
+MM00474,2026-11-21,Saturday,Dinner,Salad,5,The Salad tasted fresh and was well prepared. I enjoyed this meal.,Positive,Synthetic demo review
+MM00475,2026-11-21,Saturday,Dinner,Pickle,1,I did not enjoy the Pickle; it seemed too oily and poorly prepared.,Negative,Synthetic demo review
+MM00476,2026-11-21,Saturday,Dinner,Sambar/Rasam,4,The Sambar/Rasam was tasty and the overall meal was satisfying.,Positive,Synthetic demo review
+MM00477,2026-11-21,Saturday,Dinner,Dal,5,Good quality today. The Dal was enjoyable and well seasoned.,Positive,Synthetic demo review
+MM00478,2026-11-21,Saturday,Dinner,Papad,1,The Papad was not served warm and the taste could be better.,Negative,Synthetic demo review
+MM00479,2026-11-21,Saturday,Dinner,Matar Masala,4,The Matar Masala tasted fresh and was well prepared. I enjoyed this meal.,Positive,Synthetic demo review
+MM00480,2026-11-21,Saturday,Dinner,Roti/Chapati/Methi Roti,4,The Roti/Chapati/Methi Roti tasted fresh and was well prepared. I enjoyed this meal.,Positive,Synthetic demo review
+MM00481,2026-11-22,Sunday,Breakfast,Masala Dosa with Chutney and Sambar,4,Really liked the flavour of the Masala Dosa with Chutney and Sambar. The portion was satisfying.,Positive,Synthetic demo review
+MM00482,2026-11-22,Sunday,Breakfast,Milk/Tea/Cofee,4,The Milk/Tea/Cofee tasted fresh and was well prepared. I enjoyed this meal.,Positive,Synthetic demo review
+MM00483,2026-11-22,Sunday,Breakfast,Bread-Jam,4,The Bread-Jam was served at a good temperature and tasted nice.,Positive,Synthetic demo review
+MM00484,2026-11-22,Sunday,Breakfast,Butter,3,"The portion of Butter was acceptable. Overall, it was an average experience.",Neutral,Synthetic demo review
+MM00485,2026-11-22,Sunday,Breakfast,Corn flakes/oats,3,"The Corn flakes/oats was okay, but there is room to improve the taste.",Neutral,Synthetic demo review
+MM00486,2026-11-22,Sunday,Breakfast,Banana/Egg,4,Good quality today. The Banana/Egg was enjoyable and well seasoned.,Positive,Synthetic demo review
+MM00487,2026-11-22,Sunday,Breakfast,Sprouts,4,The Sprouts was tasty and the overall meal was satisfying.,Positive,Synthetic demo review
+MM00488,2026-11-22,Sunday,Breakfast,Masala Dosa with Chutney and Sambar,3,The Masala Dosa with Chutney and Sambar was neither very good nor very bad today.,Neutral,Synthetic demo review
+MM00489,2026-11-22,Sunday,Breakfast,Milk/Tea/Cofee,1,The portion of Milk/Tea/Cofee was small and the overall quality needs improvement.,Negative,Synthetic demo review
+MM00490,2026-11-22,Sunday,Breakfast,Bread-Jam,2,I did not enjoy the Bread-Jam; it seemed too oily and poorly prepared.,Negative,Synthetic demo review
+MM00491,2026-11-22,Sunday,Breakfast,Butter,4,The Butter was served at a good temperature and tasted nice.,Positive,Synthetic demo review
+MM00492,2026-11-22,Sunday,Breakfast,Corn flakes/oats,4,Really liked the flavour of the Corn flakes/oats. The portion was satisfying.,Positive,Synthetic demo review
+MM00493,2026-11-22,Sunday,Breakfast,Banana/Egg,3,"The portion of Banana/Egg was acceptable. Overall, it was an average experience.",Neutral,Synthetic demo review
+MM00494,2026-11-22,Sunday,Breakfast,Sprouts,5,Really liked the flavour of the Sprouts. The portion was satisfying.,Positive,Synthetic demo review
+MM00495,2026-11-22,Sunday,Breakfast,Masala Dosa with Chutney and Sambar,2,The portion of Masala Dosa with Chutney and Sambar was small and the overall quality needs improvement.,Negative,Synthetic demo review
+MM00496,2026-11-22,Sunday,Breakfast,Milk/Tea/Cofee,4,The Milk/Tea/Cofee tasted fresh and was well prepared. I enjoyed this meal.,Positive,Synthetic demo review
+MM00497,2026-11-22,Sunday,Breakfast,Bread-Jam,5,Good quality today. The Bread-Jam was enjoyable and well seasoned.,Positive,Synthetic demo review
+MM00498,2026-11-22,Sunday,Breakfast,Butter,2,The Butter was not served warm and the taste could be better.,Negative,Synthetic demo review
+MM00499,2026-11-22,Sunday,Breakfast,Corn flakes/oats,1,The Corn flakes/oats was not served warm and the taste could be better.,Negative,Synthetic demo review
+MM00500,2026-11-22,Sunday,Breakfast,Banana/Egg,4,Really liked the flavour of the Banana/Egg. The portion was satisfying.,Positive,Synthetic demo review
+MM00501,2026-11-22,Sunday,Lunch,Vegetable Curry,4,The Vegetable Curry tasted fresh and was well prepared. I enjoyed this meal.,Positive,Synthetic demo review
+MM00502,2026-11-22,Sunday,Lunch,Roti/Chapati/Methi Roti,3,"The portion of Roti/Chapati/Methi Roti was acceptable. Overall, it was an average experience.",Neutral,Synthetic demo review
+MM00503,2026-11-22,Sunday,Lunch,Rice,2,The Rice was disappointing and lacked flavour. Please improve the preparation.,Negative,Synthetic demo review
+MM00504,2026-11-22,Sunday,Lunch,Curd,3,"The portion of Curd was acceptable. Overall, it was an average experience.",Neutral,Synthetic demo review
+MM00505,2026-11-22,Sunday,Lunch,Salad,5,The Salad was served at a good temperature and tasted nice.,Positive,Synthetic demo review
+MM00506,2026-11-22,Sunday,Lunch,Pickle,3,"The portion of Pickle was acceptable. Overall, it was an average experience.",Neutral,Synthetic demo review
+MM00507,2026-11-22,Sunday,Lunch,Sambar/Rasam,5,The Sambar/Rasam was tasty and the overall meal was satisfying.,Positive,Synthetic demo review
+MM00508,2026-11-22,Sunday,Lunch,Dal,5,The Dal was tasty and the overall meal was satisfying.,Positive,Synthetic demo review
+MM00509,2026-11-22,Sunday,Lunch,Papad,1,The Papad was not served warm and the taste could be better.,Negative,Synthetic demo review
+MM00510,2026-11-22,Sunday,Lunch,Vegetable Curry,5,The Vegetable Curry was tasty and the overall meal was satisfying.,Positive,Synthetic demo review
+MM00511,2026-11-22,Sunday,Lunch,Roti/Chapati/Methi Roti,3,The Roti/Chapati/Methi Roti was neither very good nor very bad today.,Neutral,Synthetic demo review
+MM00512,2026-11-22,Sunday,Lunch,Rice,1,I did not enjoy the Rice; it seemed too oily and poorly prepared.,Negative,Synthetic demo review
+MM00513,2026-11-22,Sunday,Lunch,Curd,2,The portion of Curd was small and the overall quality needs improvement.,Negative,Synthetic demo review
+MM00514,2026-11-22,Sunday,Lunch,Salad,3,The Salad was neither very good nor very bad today.,Neutral,Synthetic demo review
+MM00515,2026-11-22,Sunday,Lunch,Pickle,4,The Pickle was served at a good temperature and tasted nice.,Positive,Synthetic demo review
+MM00516,2026-11-22,Sunday,Lunch,Sambar/Rasam,3,"The Sambar/Rasam was okay, but there is room to improve the taste.",Neutral,Synthetic demo review
+MM00517,2026-11-22,Sunday,Lunch,Dal,3,"The portion of Dal was acceptable. Overall, it was an average experience.",Neutral,Synthetic demo review
+MM00518,2026-11-22,Sunday,Lunch,Papad,5,Really liked the flavour of the Papad. The portion was satisfying.,Positive,Synthetic demo review
+MM00519,2026-11-22,Sunday,Lunch,Vegetable Curry,2,The Vegetable Curry was not served warm and the taste could be better.,Negative,Synthetic demo review
+MM00520,2026-11-22,Sunday,Lunch,Roti/Chapati/Methi Roti,1,The Roti/Chapati/Methi Roti was not served warm and the taste could be better.,Negative,Synthetic demo review
+MM00521,2026-11-22,Sunday,Snacks,Veg/Masala Maggie (Alternate Weeks),5,Good quality today. The Veg/Masala Maggie (Alternate Weeks) was enjoyable and well seasoned.,Positive,Synthetic demo review
+MM00522,2026-11-22,Sunday,Snacks,Milk/Tea/Cofee,5,Really liked the flavour of the Milk/Tea/Cofee. The portion was satisfying.,Positive,Synthetic demo review
+MM00523,2026-11-22,Sunday,Snacks,Veg/Masala Maggie (Alternate Weeks),3,"The Veg/Masala Maggie (Alternate Weeks) was okay, but there is room to improve the taste.",Neutral,Synthetic demo review
+MM00524,2026-11-22,Sunday,Snacks,Milk/Tea/Cofee,2,The portion of Milk/Tea/Cofee was small and the overall quality needs improvement.,Negative,Synthetic demo review
+MM00525,2026-11-22,Sunday,Snacks,Veg/Masala Maggie (Alternate Weeks),5,The Veg/Masala Maggie (Alternate Weeks) was tasty and the overall meal was satisfying.,Positive,Synthetic demo review
+MM00526,2026-11-22,Sunday,Snacks,Milk/Tea/Cofee,2,I did not enjoy the Milk/Tea/Cofee; it seemed too oily and poorly prepared.,Negative,Synthetic demo review
+MM00527,2026-11-22,Sunday,Snacks,Veg/Masala Maggie (Alternate Weeks),4,Good quality today. The Veg/Masala Maggie (Alternate Weeks) was enjoyable and well seasoned.,Positive,Synthetic demo review
+MM00528,2026-11-22,Sunday,Snacks,Milk/Tea/Cofee,4,The Milk/Tea/Cofee was served at a good temperature and tasted nice.,Positive,Synthetic demo review
+MM00529,2026-11-22,Sunday,Snacks,Veg/Masala Maggie (Alternate Weeks),1,The Veg/Masala Maggie (Alternate Weeks) tasted bland today. Please pay attention to seasoning and freshness.,Negative,Synthetic demo review
+MM00530,2026-11-22,Sunday,Snacks,Milk/Tea/Cofee,4,The Milk/Tea/Cofee was served at a good temperature and tasted nice.,Positive,Synthetic demo review
+MM00531,2026-11-22,Sunday,Snacks,Veg/Masala Maggie (Alternate Weeks),4,The Veg/Masala Maggie (Alternate Weeks) tasted fresh and was well prepared. I enjoyed this meal.,Positive,Synthetic demo review
+MM00532,2026-11-22,Sunday,Snacks,Milk/Tea/Cofee,3,The Milk/Tea/Cofee was average today. It could have had a little more flavour.,Neutral,Synthetic demo review
+MM00533,2026-11-22,Sunday,Snacks,Veg/Masala Maggie (Alternate Weeks),2,The Veg/Masala Maggie (Alternate Weeks) was disappointing and lacked flavour. Please improve the preparation.,Negative,Synthetic demo review
+MM00534,2026-11-22,Sunday,Snacks,Milk/Tea/Cofee,5,Really liked the flavour of the Milk/Tea/Cofee. The portion was satisfying.,Positive,Synthetic demo review
+MM00535,2026-11-22,Sunday,Snacks,Veg/Masala Maggie (Alternate Weeks),1,The portion of Veg/Masala Maggie (Alternate Weeks) was small and the overall quality needs improvement.,Negative,Synthetic demo review
+MM00536,2026-11-22,Sunday,Snacks,Milk/Tea/Cofee,5,Good quality today. The Milk/Tea/Cofee was enjoyable and well seasoned.,Positive,Synthetic demo review
+MM00537,2026-11-22,Sunday,Snacks,Veg/Masala Maggie (Alternate Weeks),4,Really liked the flavour of the Veg/Masala Maggie (Alternate Weeks). The portion was satisfying.,Positive,Synthetic demo review
+MM00538,2026-11-22,Sunday,Snacks,Milk/Tea/Cofee,2,The Milk/Tea/Cofee tasted bland today. Please pay attention to seasoning and freshness.,Negative,Synthetic demo review
+MM00539,2026-11-22,Sunday,Snacks,Veg/Masala Maggie (Alternate Weeks),4,Good quality today. The Veg/Masala Maggie (Alternate Weeks) was enjoyable and well seasoned.,Positive,Synthetic demo review
+MM00540,2026-11-22,Sunday,Snacks,Milk/Tea/Cofee,2,The Milk/Tea/Cofee tasted bland today. Please pay attention to seasoning and freshness.,Negative,Synthetic demo review
+MM00541,2026-11-22,Sunday,Dinner,Chicken Biryani / Paneer Biryani (4 pc)*,3,"The Chicken Biryani / Paneer Biryani (4 pc)* was okay, but there is room to improve the taste.",Neutral,Synthetic demo review
+MM00542,2026-11-22,Sunday,Dinner,Ice cream,4,The Ice cream was served at a good temperature and tasted nice.,Positive,Synthetic demo review
+MM00543,2026-11-22,Sunday,Dinner,Roti/Chapati/Methi Roti,5,The Roti/Chapati/Methi Roti was served at a good temperature and tasted nice.,Positive,Synthetic demo review
+MM00544,2026-11-22,Sunday,Dinner,Rice,4,The Rice tasted fresh and was well prepared. I enjoyed this meal.,Positive,Synthetic demo review
+MM00545,2026-11-22,Sunday,Dinner,Curd,4,Really liked the flavour of the Curd. The portion was satisfying.,Positive,Synthetic demo review
+MM00546,2026-11-22,Sunday,Dinner,Salad,1,The Salad was disappointing and lacked flavour. Please improve the preparation.,Negative,Synthetic demo review
+MM00547,2026-11-22,Sunday,Dinner,Pickle,4,The Pickle tasted fresh and was well prepared. I enjoyed this meal.,Positive,Synthetic demo review
+MM00548,2026-11-22,Sunday,Dinner,Sambar/Rasam,3,"The portion of Sambar/Rasam was acceptable. Overall, it was an average experience.",Neutral,Synthetic demo review
+MM00549,2026-11-22,Sunday,Dinner,Dal,4,Good quality today. The Dal was enjoyable and well seasoned.,Positive,Synthetic demo review
+MM00550,2026-11-22,Sunday,Dinner,Papad,5,Good quality today. The Papad was enjoyable and well seasoned.,Positive,Synthetic demo review
+MM00551,2026-11-22,Sunday,Dinner,Chicken Biryani / Paneer Biryani (4 pc)*,3,"The Chicken Biryani / Paneer Biryani (4 pc)* was okay, but there is room to improve the taste.",Neutral,Synthetic demo review
+MM00552,2026-11-22,Sunday,Dinner,Ice cream,3,"The Ice cream was fine, but consistency could be improved.",Neutral,Synthetic demo review
+MM00553,2026-11-22,Sunday,Dinner,Roti/Chapati/Methi Roti,5,The Roti/Chapati/Methi Roti tasted fresh and was well prepared. I enjoyed this meal.,Positive,Synthetic demo review
+MM00554,2026-11-22,Sunday,Dinner,Rice,5,Really liked the flavour of the Rice. The portion was satisfying.,Positive,Synthetic demo review
+MM00555,2026-11-22,Sunday,Dinner,Curd,4,Good quality today. The Curd was enjoyable and well seasoned.,Positive,Synthetic demo review
+MM00556,2026-11-22,Sunday,Dinner,Salad,4,Good quality today. The Salad was enjoyable and well seasoned.,Positive,Synthetic demo review
+MM00557,2026-11-22,Sunday,Dinner,Pickle,4,Really liked the flavour of the Pickle. The portion was satisfying.,Positive,Synthetic demo review
+MM00558,2026-11-22,Sunday,Dinner,Sambar/Rasam,4,The Sambar/Rasam was served at a good temperature and tasted nice.,Positive,Synthetic demo review
+MM00559,2026-11-22,Sunday,Dinner,Dal,4,Good quality today. The Dal was enjoyable and well seasoned.,Positive,Synthetic demo review
+MM00560,2026-11-22,Sunday,Dinner,Papad,5,The Papad was tasty and the overall meal was satisfying.,Positive,Synthetic demo review
